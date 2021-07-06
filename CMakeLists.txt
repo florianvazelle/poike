@@ -43,13 +43,8 @@ file(GLOB_RECURSE PROJECT_HEADERS "${CMAKE_SOURCE_DIR}/include/*.hpp")
 
 # ---- Conan package ----
 
-if(CONAN_EXPORTED)
-    include(${CMAKE_CURRENT_BINARY_DIR}/conanbuildinfo.cmake)
-    conan_basic_setup()
-else()
-    include("${CMAKE_SOURCE_DIR}/cmake/conan.cmake")
-    conan_cmake_run(CONANFILE conanfile.txt BASIC_SETUP BUILD missing)
-endif()
+include("./cmake/conan.cmake")
+conan_cmake_run(CONANFILE ./conanfile.txt BASIC_SETUP BUILD missing)
 
 file(GLOB_RECURSE EXTERNALS "${CMAKE_CURRENT_BINARY_DIR}/external/*")
 
