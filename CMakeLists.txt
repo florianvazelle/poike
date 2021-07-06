@@ -38,8 +38,8 @@ endif()
 # Define library target
 #
 
-file(GLOB_RECURSE POIKE_PROJECT_SOURCES "${CMAKE_SOURCE_DIR}/src/*.cpp")
-file(GLOB_RECURSE POIKE_PROJECT_HEADERS "${CMAKE_SOURCE_DIR}/include/*.hpp")
+file(GLOB_RECURSE POIKE_PROJECT_SOURCES "./src/*.cpp")
+file(GLOB_RECURSE POIKE_PROJECT_HEADERS "./include/*.hpp")
 
 # ---- Conan package ----
 
@@ -53,7 +53,7 @@ file(GLOB_RECURSE EXTERNALS "${CMAKE_CURRENT_BINARY_DIR}/external/*")
 
 add_library(${PROJECT_NAME} OBJECT ${POIKE_PROJECT_SOURCES} ${POIKE_PROJECT_HEADERS} ${EXTERNALS})
 
-target_include_directories(${PROJECT_NAME} PUBLIC ${PROJECT_SOURCE_DIR}/include)
+target_include_directories(${PROJECT_NAME} PUBLIC ./include)
 target_include_directories(${PROJECT_NAME} PUBLIC ${CMAKE_CURRENT_BINARY_DIR}/external)
 
 target_link_libraries(${PROJECT_NAME} PUBLIC ${CONAN_LIBS} Vulkan::Vulkan)
