@@ -6,7 +6,7 @@
 
 # Poike
 
-This is work in progress comprehensible Vulkan framework.
+This is a work in progress comprehensible Vulkan framework.
 
 ## Building
 
