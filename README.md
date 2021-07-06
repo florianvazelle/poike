@@ -6,7 +6,7 @@
   <h1></h1>
   <div>
     <a href="https://github.com/florianvazelle/poike/actions"><img src="https://github.com/florianvazelle/poike/workflows/build/badge.svg"/></a>
-    <img src="https://app.codacy.com/project/badge/Grade/fdf05c587b994f008692d4e6fd1f0acd"/>
+    <img src="https://app.codacy.com/project/badge/Grade/289ed3c67b1d42f5a10a17a25de1c969"/>
     <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20android-blue"/>
     <a href="https://github.com/florianvazelle/poike/blob/main/LICENSE"><img src="https://img.shields.io/github/license/florianvazelle/poike"/></a>
     <a href="https://tokei.rs"><img src="https://tokei.rs/b1/github/florianvazelle/poike?category=code"/></a>
