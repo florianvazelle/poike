@@ -7,8 +7,8 @@
 #define DESCRIPTORSETLAYOUT_HPP
 
 // clang-format off
-#include <common/VulkanHeader.hpp>  // for VkDescriptorSetLayout, VkDescriptorS...
-#include <common/NoCopy.hpp>       // for NoCopy
+#include <poike/core/VulkanHeader.hpp>  // for VkDescriptorSetLayout, VkDescriptorS...
+#include <poike/meta/NoCopy.hpp>       // for NoCopy
 namespace vkl { class Device; }
 // clang-format on
 

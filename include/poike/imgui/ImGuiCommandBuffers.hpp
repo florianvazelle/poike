@@ -3,7 +3,7 @@
 
 // clang-format off
 #include <stdint.h>                   // for uint32_t
-#include <common/CommandBuffers.hpp>  // for CommandBuffers
+#include <poike/core/CommandBuffers.hpp>  // for CommandBuffers
 namespace vkl { class CommandPool; }
 namespace vkl { class Device; }
 namespace vkl { class GraphicsPipeline; }

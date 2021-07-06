@@ -1,8 +1,8 @@
 #ifndef IMGUIRENDERPASS_HPP
 #define IMGUIRENDERPASS_HPP
 
-#include <common/RenderPass.hpp>
-#include <common/VulkanHeader.hpp>
+#include <poike/core/RenderPass.hpp>
+#include <poike/core/VulkanHeader.hpp>
 #include <stdexcept>
 
 namespace vkl {

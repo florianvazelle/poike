@@ -7,12 +7,12 @@
 #ifndef BUFFER_HPP
 #define BUFFER_HPP
 
-#include <common/VulkanHeader.hpp>
+#include <poike/core/VulkanHeader.hpp>
 #include <cstring>  // memcpy
 #include <stdexcept>
 
-#include <common/Device.hpp>
-#include <common/buffer/StorageBuffer.hpp>
+#include <poike/core/Device.hpp>
+#include <poike/core/buffer/StorageBuffer.hpp>
 
 namespace vkl {
 

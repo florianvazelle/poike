@@ -8,8 +8,8 @@
 
 // clang-format off
 #include <stdint.h>              // for uint32_t
-#include <common/VulkanHeader.hpp>  // for VkFence, VkSemaphore
-#include <common/NoCopy.hpp>       // for NoCopy
+#include <poike/core/VulkanHeader.hpp>  // for VkFence, VkSemaphore
+#include <poike/meta/NoCopy.hpp>       // for NoCopy
 #include <vector>                // for vector
 namespace vkl { class Device; }
 // clang-format on

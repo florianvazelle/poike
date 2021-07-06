@@ -6,8 +6,8 @@
 #ifndef COMMANDPOOL_HPP
 #define COMMANDPOOL_HPP
 
-#include <common/NoCopy.hpp>
-#include <common/VulkanHeader.hpp>
+#include <poike/meta/NoCopy.hpp>
+#include <poike/core/VulkanHeader.hpp>
 #include <optional>
 
 namespace vkl {

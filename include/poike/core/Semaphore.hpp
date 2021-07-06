@@ -2,8 +2,8 @@
 #define SEMAPHORE_HPP
 
 // clang-format off
-#include <common/VulkanHeader.hpp>  // for VkSemaphore, VkSemaphore_T
-#include <common/NoCopy.hpp>       // for NoCopy
+#include <poike/core/VulkanHeader.hpp>  // for VkSemaphore, VkSemaphore_T
+#include <poike/meta/NoCopy.hpp>       // for NoCopy
 namespace vkl { class Device; }
 // clang-format on
 

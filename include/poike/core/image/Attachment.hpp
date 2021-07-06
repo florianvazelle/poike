@@ -1,8 +1,8 @@
 #ifndef ATTACHMENT_HPP
 #define ATTACHMENT_HPP
 
-#include <common/SwapChain.hpp>
-#include <common/image/Image.hpp>
+#include <poike/core/SwapChain.hpp>
+#include <poike/core/image/Image.hpp>
 
 namespace vkl {
 

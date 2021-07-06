@@ -1,11 +1,11 @@
 // clang-format off
-#include <common/SwapChain.hpp>
+#include <poike/core/SwapChain.hpp>
 #include <algorithm>                 // for max, min
-#include <common/Device.hpp>         // for Device
-#include <common/Window.hpp>         // for Window
+#include <poike/core/Device.hpp>         // for Device
+#include <poike/core/Window.hpp>         // for Window
 #include <optional>                  // for operator!=, optional
 #include <stdexcept>                 // for runtime_error
-#include <common/QueueFamily.hpp>    // for QueueFamilyIndices
+#include <poike/core/QueueFamily.hpp>    // for QueueFamilyIndices
 #include <glm/detail/type_vec2.hpp>  // for vec<>::(anonymous)
 #include <glm/ext/vector_int2.hpp>   // for ivec2
 // clang-format on

@@ -7,9 +7,9 @@
 #define DESCRIPTORSETS_HPP
 
 // clang-format off
-#include <common/VulkanHeader.hpp>  // for VkDescriptorSet, VkDescriptorSet_T
-#include <common/NoCopy.hpp>       // for NoCopy
-#include <common/image/Image.hpp>
+#include <poike/core/VulkanHeader.hpp>  // for VkDescriptorSet, VkDescriptorSet_T
+#include <poike/meta/NoCopy.hpp>       // for NoCopy
+#include <poike/core/image/Image.hpp>
 #include <vector>                // for vector
 namespace vkl { class DescriptorPool; }
 namespace vkl { class DescriptorSetLayout; }

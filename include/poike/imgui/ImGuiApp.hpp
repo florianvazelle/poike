@@ -4,10 +4,10 @@
 
 // clang-format off
 #include <stdint.h>                              // for uint32_t
-#include <common/VulkanHeader.hpp>                  // for VkCommandBuffer, VkD...
-#include <common/CommandPool.hpp>                // for CommandPool
-#include <common/ImGui/ImGuiCommandBuffers.hpp>  // for ImGuiCommandBuffers
-#include <common/ImGui/ImGuiRenderPass.hpp>      // for ImGuiRenderPass
+#include <poike/core/VulkanHeader.hpp>                  // for VkCommandBuffer, VkD...
+#include <poike/core/CommandPool.hpp>                // for CommandPool
+#include <poike/imgui/ImGuiCommandBuffers.hpp>  // for ImGuiCommandBuffers
+#include <poike/imgui/ImGuiRenderPass.hpp>      // for ImGuiRenderPass
 namespace vkl { class Device; }
 namespace vkl { class GraphicsPipeline; }
 namespace vkl { class Instance; }

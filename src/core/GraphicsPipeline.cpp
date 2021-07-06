@@ -1,7 +1,7 @@
 // clang-format off
-#include <common/GraphicsPipeline.hpp>
-#include <common/Device.hpp>     // for Device
-#include <common/SwapChain.hpp>  // for vkl
+#include <poike/core/GraphicsPipeline.hpp>
+#include <poike/core/Device.hpp>     // for Device
+#include <poike/core/SwapChain.hpp>  // for vkl
 #include <stdexcept>             // for runtime_error
 #include <iostream>
 // clang-format on

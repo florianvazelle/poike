@@ -7,9 +7,9 @@
 #define DEVICE_HPP
 
 // clang-format off
-#include <common/VulkanHeader.hpp>    // for VkPhysicalDevice, VkQueue, VkDevice
-#include <common/NoCopy.hpp>         // for NoCopy
-#include <common/QueueFamily.hpp>  // for QueueFamilyIndices
+#include <poike/core/VulkanHeader.hpp>    // for VkPhysicalDevice, VkQueue, VkDevice
+#include <poike/meta/NoCopy.hpp>         // for NoCopy
+#include <poike/core/QueueFamily.hpp>  // for QueueFamilyIndices
 #include <vector>                  // for vector
 namespace vkl { class Instance; }
 namespace vkl { class Window; }

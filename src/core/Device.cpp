@@ -1,9 +1,9 @@
 // clang-format off
-#include <common/Device.hpp>
-#include <common/Instance.hpp>     // for Instance, Instance::ValidationLayers
-#include <common/QueueFamily.hpp>  // for QueueFamilyIndices, QueueFamily, vkl
-#include <common/SwapChain.hpp>    // for SwapChainSupportDetails, SwapChain
-#include <common/Window.hpp>       // for Window
+#include <poike/core/Device.hpp>
+#include <poike/core/Instance.hpp>     // for Instance, Instance::ValidationLayers
+#include <poike/core/QueueFamily.hpp>  // for QueueFamilyIndices, QueueFamily, vkl
+#include <poike/core/SwapChain.hpp>    // for SwapChainSupportDetails, SwapChain
+#include <poike/core/Window.hpp>       // for Window
 #include <cstdint>                 // for uint32_t
 #include <iostream>                // for operator<<, basic_ostream, cout
 #include <optional>                // for optional

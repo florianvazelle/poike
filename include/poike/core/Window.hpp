@@ -14,8 +14,8 @@
 #include <GLFW/glfw3.h>
 #endif
 
-#include <common/VulkanHeader.hpp>      // for VkSurfaceKHR, VkSurfaceKHR_T
-#include <common/NoCopy.hpp>           // for NoCopy
+#include <poike/core/VulkanHeader.hpp>      // for VkSurfaceKHR, VkSurfaceKHR_T
+#include <poike/meta/NoCopy.hpp>           // for NoCopy
 #include <functional>                // for function
 #include <string>                    // for string
 #include <vector>                    // for vector

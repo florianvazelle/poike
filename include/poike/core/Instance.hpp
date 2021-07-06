@@ -7,8 +7,8 @@
 #define INSTANCE_HPP
 
 // clang-format off
-#include <common/VulkanHeader.hpp>  // for VkInstance, VkInstance_T
-#include <common/NoCopy.hpp>       // for NoCopy
+#include <poike/core/VulkanHeader.hpp>  // for VkInstance, VkInstance_T
+#include <poike/meta/NoCopy.hpp>       // for NoCopy
 #include <string>                // for string
 #include <vector>                // for vector
 // clang-format on

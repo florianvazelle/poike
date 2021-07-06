@@ -1,12 +1,12 @@
 // clang-format off
-#include <common/DescriptorSets.hpp>
+#include <poike/core/DescriptorSets.hpp>
 #include <stddef.h>                        // for size_t
 #include <stdint.h>                        // for uint32_t
-#include <common/DescriptorPool.hpp>       // for DescriptorPool
-#include <common/DescriptorSetLayout.hpp>  // for DescriptorSetLayout
-#include <common/Device.hpp>               // for Device
-#include <common/SwapChain.hpp>            // for SwapChain
-#include <common/misc/DescriptorSet.hpp>   // for descriptorSetAllocateInfo
+#include <poike/core/DescriptorPool.hpp>       // for DescriptorPool
+#include <poike/core/DescriptorSetLayout.hpp>  // for DescriptorSetLayout
+#include <poike/core/Device.hpp>               // for Device
+#include <poike/core/SwapChain.hpp>            // for SwapChain
+#include <poike/misc/DescriptorSet.hpp>   // for descriptorSetAllocateInfo
 #include <stdexcept>                       // for runtime_error
 // clang-format on
 

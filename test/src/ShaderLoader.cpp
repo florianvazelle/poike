@@ -1,9 +1,9 @@
 #include <doctest/doctest.h>
 
 #include <shadow_mapping_frag.h>
-#include <common/struct/Vertex.hpp>
+#include <poike/core/struct/Vertex.hpp>
 
-#include <common/VulkanHeader.hpp>
+#include <poike/core/VulkanHeader.hpp>
 
 #include <iostream>
 

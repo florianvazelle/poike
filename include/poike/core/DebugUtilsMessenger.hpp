@@ -6,9 +6,9 @@
 #ifndef DEBUGUTILSMESSENGER_HPP
 #define DEBUGUTILSMESSENGER_HPP
 
-#include <common/VulkanHeader.hpp>
+#include <poike/core/VulkanHeader.hpp>
 
-#include <common/NoCopy.hpp>
+#include <poike/meta/NoCopy.hpp>
 
 namespace vkl {
 

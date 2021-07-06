@@ -1,7 +1,7 @@
 // clang-format off
-#include <common/Window.hpp>
+#include <poike/core/Window.hpp>
 #include <stdint.h>                  // for uint32_t
-#include <common/Instance.hpp>       // for Instance
+#include <poike/core/Instance.hpp>       // for Instance
 #include <stdexcept>                 // for runtime_error
 #include <glm/detail/type_vec2.hpp>  // for vec<>::(anonymous)
 // clang-format on

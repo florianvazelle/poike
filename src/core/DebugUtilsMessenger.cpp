@@ -1,5 +1,5 @@
-#include <common/DebugUtilsMessenger.hpp>
-#include <common/Instance.hpp>
+#include <poike/core/DebugUtilsMessenger.hpp>
+#include <poike/core/Instance.hpp>
 
 #include <iostream>
 #include <stdexcept>

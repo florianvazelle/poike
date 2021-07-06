@@ -1,10 +1,10 @@
 #ifndef TEXTURE_HPP
 #define TEXTURE_HPP
 
-#include <common/CommandBuffers.hpp>
-#include <common/CommandPool.hpp>
-#include <common/buffer/Buffer.hpp>
-#include <common/image/Image.hpp>
+#include <poike/core/CommandBuffers.hpp>
+#include <poike/core/CommandPool.hpp>
+#include <poike/core/buffer/Buffer.hpp>
+#include <poike/core/image/Image.hpp>
 
 #include <stdexcept>
 

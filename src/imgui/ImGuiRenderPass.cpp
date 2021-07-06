@@ -1,8 +1,8 @@
 // clang-format off
-#include <common/ImGui/ImGuiRenderPass.hpp>
-#include <common/VulkanHeader.hpp>    // for vkCreateRenderPass, VK_ACCESS_COLO...
-#include <common/Device.hpp>       // for Device
-#include <common/SwapChain.hpp>    // for SwapChain
+#include <poike/imgui/ImGuiRenderPass.hpp>
+#include <poike/core/VulkanHeader.hpp>    // for vkCreateRenderPass, VK_ACCESS_COLO...
+#include <poike/core/Device.hpp>       // for Device
+#include <poike/core/SwapChain.hpp>    // for SwapChain
 #include <stdexcept>               // for runtime_error
 #include "common/QueueFamily.hpp"  // for vkl
 #include "common/RenderPass.hpp"   // for RenderPass

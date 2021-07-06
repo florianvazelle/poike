@@ -70,28 +70,6 @@ target_set_warnings(
     DISABLE Annoying missing-field-initializers unused-parameter unused-function
 )
 
-# ---- Compile shader into SPIR-V ----
-
-file(GLOB_RECURSE SHADERS "${CMAKE_SOURCE_DIR}/assets/shaders/*.vert" "${CMAKE_SOURCE_DIR}/assets/shaders/*.frag" "${CMAKE_SOURCE_DIR}/assets/shaders/*.comp")
-
-compile_shaders(TARGETS ${SHADERS})
-
-#
-# Entry points
-#
-
-option(BUILD_APPS "Enable building with entry points." ON)
-
-if(BUILD_APPS)
-    add_subdirectory(app)
-
-    option(INSTALL_APPS "Enable installation of the entry points." OFF)
-
-    if (INSTALL_APPS)
-        install(DIRECTORY ${CMAKE_RUNTIME_OUTPUT_DIRECTORY} DESTINATION .)
-    endif()
-endif()
-
 #
 # Tests
 #

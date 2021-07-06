@@ -7,14 +7,14 @@
 #define APPLICATION_HPP
 
 // clang-format off
-#include <common/NoCopy.hpp>               // for NoCopy
-#include <common/NoMove.hpp>               // for NoMove
-#include <common/DebugUtilsMessenger.hpp>  // for DebugUtilsMessenger
-#include <common/Device.hpp>               // for Device
-#include <common/Instance.hpp>             // for Instance
-#include <common/SwapChain.hpp>            // for SwapChain
-#include <common/SyncObjects.hpp>          // for SyncObjects
-#include <common/Window.hpp>               // for Window
+#include <poike/meta/NoCopy.hpp>               // for NoCopy
+#include <poike/meta/NoCopy.hpp>               // for NoMove
+#include <poike/core/DebugUtilsMessenger.hpp>  // for DebugUtilsMessenger
+#include <poike/core/Device.hpp>               // for Device
+#include <poike/core/Instance.hpp>             // for Instance
+#include <poike/core/SwapChain.hpp>            // for SwapChain
+#include <poike/core/SyncObjects.hpp>          // for SyncObjects
+#include <poike/core/Window.hpp>               // for Window
 #include <string>                          // for allocator, string
 #include <iostream>
 // clang-format on

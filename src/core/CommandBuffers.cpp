@@ -1,9 +1,9 @@
-#include <common/CommandBuffers.hpp>
-#include <common/CommandPool.hpp>
-#include <common/Device.hpp>
-#include <common/GraphicsPipeline.hpp>
-#include <common/RenderPass.hpp>
-#include <common/SwapChain.hpp>
+#include <poike/core/CommandBuffers.hpp>
+#include <poike/core/CommandPool.hpp>
+#include <poike/core/Device.hpp>
+#include <poike/core/GraphicsPipeline.hpp>
+#include <poike/core/RenderPass.hpp>
+#include <poike/core/SwapChain.hpp>
 
 #include <stdexcept>
 

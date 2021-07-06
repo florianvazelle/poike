@@ -9,8 +9,8 @@
 // clang-format off
 #include <stddef.h>              // for size_t
 #include <stdint.h>              // for uint32_t
-#include <common/VulkanHeader.hpp>  // for VkSurfaceFormatKHR, VkPresentModeKHR
-#include <common/NoCopy.hpp>       // for NoCopy
+#include <poike/core/VulkanHeader.hpp>  // for VkSurfaceFormatKHR, VkPresentModeKHR
+#include <poike/meta/NoCopy.hpp>       // for NoCopy
 #include <vector>                // for vector
 namespace vkl { class Device; }
 namespace vkl { class Window; }

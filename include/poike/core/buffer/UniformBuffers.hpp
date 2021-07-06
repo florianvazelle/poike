@@ -1,17 +1,17 @@
 #ifndef UNIFORMBUFFER_HPP
 #define UNIFORMBUFFER_HPP
 
-#include <common/VulkanHeader.hpp>
+#include <poike/core/VulkanHeader.hpp>
 #include <deque>
 #include <stdexcept>
 
-#include <common/Device.hpp>
-#include <common/NoCopy.hpp>
-#include <common/SwapChain.hpp>
-#include <common/buffer/Buffer.hpp>
-#include <common/buffer/IBuffer.hpp>
-#include <common/struct/Depth.hpp>
-#include <common/struct/MVP.hpp>
+#include <poike/core/Device.hpp>
+#include <poike/meta/NoCopy.hpp>
+#include <poike/core/SwapChain.hpp>
+#include <poike/core/buffer/Buffer.hpp>
+#include <poike/core/buffer/IBuffer.hpp>
+#include <poike/core/struct/Depth.hpp>
+#include <poike/core/struct/MVP.hpp>
 
 #define GLM_FORCE_RADIANS
 #include <glm/glm.hpp>

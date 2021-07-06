@@ -8,9 +8,9 @@
 
 // clang-format off
 #include <stdint.h>              // for uint32_t
-#include <common/VulkanHeader.hpp>  // for VK_FALSE, VkPipelineLayout, VK_TRUE
-#include <common/NoCopy.hpp>       // for NoCopy
-#include <common/SwapChain.hpp>  // for SwapChain
+#include <poike/core/VulkanHeader.hpp>  // for VK_FALSE, VkPipelineLayout, VK_TRUE
+#include <poike/meta/NoCopy.hpp>       // for NoCopy
+#include <poike/core/SwapChain.hpp>  // for SwapChain
 #include <vector>                // for vector
 namespace vkl { class DescriptorSetLayout; }
 namespace vkl { class Device; }

@@ -1,8 +1,8 @@
 // clang-format off
-#include <common/DescriptorSetLayout.hpp>
+#include <poike/core/DescriptorSetLayout.hpp>
 #include <stdexcept>               // for runtime_error
-#include <common/Device.hpp>       // for Device
-#include <common/QueueFamily.hpp>  // for vkl
+#include <poike/core/Device.hpp>       // for Device
+#include <poike/core/QueueFamily.hpp>  // for vkl
 // clang-format on
 
 using namespace vkl;

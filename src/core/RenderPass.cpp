@@ -1,9 +1,9 @@
 // clang-format off
-#include <common/RenderPass.hpp>
-#include <common/Device.hpp>                 // for Device
-#include <common/SwapChain.hpp>              // for SwapChain
+#include <poike/core/RenderPass.hpp>
+#include <poike/core/Device.hpp>                 // for Device
+#include <poike/core/SwapChain.hpp>              // for SwapChain
 #include <stdexcept>                         // for runtime_error
-#include <common/QueueFamily.hpp>            // for vkl
+#include <poike/core/QueueFamily.hpp>            // for vkl
 // clang-format on
 
 using namespace vkl;

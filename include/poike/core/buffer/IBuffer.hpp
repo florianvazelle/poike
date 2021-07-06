@@ -1,9 +1,9 @@
 #ifndef IBUFFER_HPP
 #define IBUFFER_HPP
 
-#include <common/VulkanHeader.hpp>
+#include <poike/core/VulkanHeader.hpp>
 
-#include <common/NoCopy.hpp>
+#include <poike/meta/NoCopy.hpp>
 
 namespace vkl {
 

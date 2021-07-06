@@ -1,10 +1,10 @@
 #ifndef IMAGE_HPP
 #define IMAGE_HPP
 
-#include <common/VulkanHeader.hpp>
-#include <common/Device.hpp>
-#include <common/misc/Device.hpp>
-#include <common/NoCopy.hpp>
+#include <poike/core/VulkanHeader.hpp>
+#include <poike/core/Device.hpp>
+#include <poike/misc/Device.hpp>
+#include <poike/meta/NoCopy.hpp>
 
 namespace vkl {
 

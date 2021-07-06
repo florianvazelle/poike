@@ -6,14 +6,14 @@
 #ifndef COMMANDBUFFERS_HPP
 #define COMMANDBUFFERS_HPP
 
-#include <common/CommandPool.hpp>
-#include <common/DescriptorSets.hpp>
-#include <common/Device.hpp>
-#include <common/GraphicsPipeline.hpp>
-#include <common/NoCopy.hpp>
-#include <common/RenderPass.hpp>
-#include <common/SwapChain.hpp>
-#include <common/VulkanHeader.hpp>
+#include <poike/core/CommandPool.hpp>
+#include <poike/core/DescriptorSets.hpp>
+#include <poike/core/Device.hpp>
+#include <poike/core/GraphicsPipeline.hpp>
+#include <poike/meta/NoCopy.hpp>
+#include <poike/core/RenderPass.hpp>
+#include <poike/core/SwapChain.hpp>
+#include <poike/core/VulkanHeader.hpp>
 #include <functional>
 #include <vector>
 

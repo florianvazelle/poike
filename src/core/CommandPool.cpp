@@ -1,5 +1,5 @@
-#include <common/CommandPool.hpp>
-#include <common/Device.hpp>
+#include <poike/core/CommandPool.hpp>
+#include <poike/core/Device.hpp>
 
 #include <stdexcept>
 

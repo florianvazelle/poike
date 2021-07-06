@@ -1,14 +1,14 @@
 // clang-format off
-#include <common/ImGui/ImGuiCommandBuffers.hpp>
+#include <poike/imgui/ImGuiCommandBuffers.hpp>
 #include <imgui.h>                    // for GetDrawData
 #include <imgui_impl_vulkan.h>        // for ImGui_ImplVulkan_RenderDrawData
-#include <common/VulkanHeader.hpp>       // for VkCommandBuffer, VkCommandBuffer_T
-#include <common/CommandBuffers.hpp>  // for CommandBuffers
-#include <common/CommandPool.hpp>     // for CommandPool, vkl
-#include <common/DescriptorSets.hpp>  // for DescriptorSets
-#include <common/Device.hpp>          // for Device
-#include <common/RenderPass.hpp>      // for RenderPass, RenderPass
-#include <common/SwapChain.hpp>       // for SwapChain
+#include <poike/core/VulkanHeader.hpp>       // for VkCommandBuffer, VkCommandBuffer_T
+#include <poike/core/CommandBuffers.hpp>  // for CommandBuffers
+#include <poike/core/CommandPool.hpp>     // for CommandPool, vkl
+#include <poike/core/DescriptorSets.hpp>  // for DescriptorSets
+#include <poike/core/Device.hpp>          // for Device
+#include <poike/core/RenderPass.hpp>      // for RenderPass, RenderPass
+#include <poike/core/SwapChain.hpp>       // for SwapChain
 #include <stdexcept>                  // for runtime_error
 #include <vector>                     // for vector
 // clang-format on

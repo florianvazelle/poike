@@ -9,12 +9,12 @@
 // clang-format off
 #include <stddef.h>              // for size_t
 #include <stdint.h>              // for uint32_t
-#include <common/VulkanHeader.hpp>  // for VkFramebuffer, VkRenderPass, VkRende...
-#include <common/NoCopy.hpp>       // for NoCopy
+#include <poike/core/VulkanHeader.hpp>  // for VkFramebuffer, VkRenderPass, VkRende...
+#include <poike/meta/NoCopy.hpp>       // for NoCopy
 #include <iostream>              // for operator<<, cout, ostream
 #include <memory>                // for unique_ptr
 #include <vector>                // for vector
-#include <common/image/Attachment.hpp>
+#include <poike/core/image/Attachment.hpp>
 namespace vkl { class Device; }
 namespace vkl { class SwapChain; }
 // clang-format on

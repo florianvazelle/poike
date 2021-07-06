@@ -1,13 +1,13 @@
 #ifndef STORAGEBUFFER_HPP
 #define STORAGEBUFFER_HPP
 
-#include <common/VulkanHeader.hpp>
+#include <poike/core/VulkanHeader.hpp>
 #include <stdexcept>
 
-#include <common/Device.hpp>
-#include <common/NoCopy.hpp>
-#include <common/buffer/IBuffer.hpp>
-#include <common/misc/Device.hpp>
+#include <poike/core/Device.hpp>
+#include <poike/meta/NoCopy.hpp>
+#include <poike/core/buffer/IBuffer.hpp>
+#include <poike/misc/Device.hpp>
 
 #include <cstring>
 #include <iostream>

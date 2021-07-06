@@ -1,8 +1,8 @@
 // clang-format off
-#include <common/Instance.hpp>
+#include <poike/core/Instance.hpp>
 #include <stdint.h>                        // for uint32_t
-#include <common/DebugUtilsMessenger.hpp>  // for DebugUtilsMessenger
-#include <common/Window.hpp>               // for Window
+#include <poike/core/DebugUtilsMessenger.hpp>  // for DebugUtilsMessenger
+#include <poike/core/Window.hpp>               // for Window
 #include <cstring>                         // for strcmp
 #include <stdexcept>                       // for runtime_error
 // clang-format on
