@@ -13,7 +13,7 @@ include(cmake/tools/warnings.cmake)
 
 project(
     poike
-    DESCRIPTION "A Vulkan framework"
+    DESCRIPTION "A comprehensible Vulkan framework"
     HOMEPAGE_URL "https://github.com/florianvazelle/poike"
     LANGUAGES CXX
 )
@@ -38,8 +38,8 @@ endif()
 # Define library target
 #
 
-file(GLOB_RECURSE PROJECT_SOURCES "${CMAKE_SOURCE_DIR}/src/*.cpp")
-file(GLOB_RECURSE PROJECT_HEADERS "${CMAKE_SOURCE_DIR}/include/*.hpp")
+file(GLOB_RECURSE POIKE_PROJECT_SOURCES "${CMAKE_SOURCE_DIR}/src/*.cpp")
+file(GLOB_RECURSE POIKE_PROJECT_HEADERS "${CMAKE_SOURCE_DIR}/include/*.hpp")
 
 # ---- Conan package ----
 
@@ -51,7 +51,7 @@ file(GLOB_RECURSE EXTERNALS "${CMAKE_CURRENT_BINARY_DIR}/external/*")
 
 # ---- Create library ----
 
-add_library(${PROJECT_NAME} OBJECT ${PROJECT_SOURCES} ${PROJECT_HEADERS} ${EXTERNALS})
+add_library(${PROJECT_NAME} OBJECT ${POIKE_PROJECT_SOURCES} ${POIKE_PROJECT_HEADERS} ${EXTERNALS})
 
 target_include_directories(${PROJECT_NAME} PUBLIC ${PROJECT_SOURCE_DIR}/include)
 target_include_directories(${PROJECT_NAME} PUBLIC ${CMAKE_CURRENT_BINARY_DIR}/external)
