@@ -44,7 +44,19 @@ file(GLOB_RECURSE POIKE_PROJECT_HEADERS "./include/*.hpp")
 # ---- Conan package ----
 
 include("./cmake/conan.cmake")
-conan_cmake_run(CONANFILE ./conanfile.txt BASIC_SETUP BUILD missing)
+
+conan_check(REQUIRED)
+conan_cmake_run(
+    CONANFILE
+    ./conanfile.txt
+    BASIC_SETUP
+    CONAN_COMMAND
+    ${CONAN_CMD}
+    CMAKE_TARGETS
+    BUILD
+    missing)
+include(${CMAKE_CURRENT_BINARY_DIR}/conanbuildinfo.cmake)
+conan_basic_setup()
 
 file(GLOB_RECURSE EXTERNALS "${CMAKE_CURRENT_BINARY_DIR}/external/*")
 
