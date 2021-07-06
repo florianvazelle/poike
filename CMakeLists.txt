@@ -38,8 +38,8 @@ endif()
 # Define library target
 #
 
-file(GLOB_RECURSE POIKE_PROJECT_SOURCES "./src/*.cpp")
-file(GLOB_RECURSE POIKE_PROJECT_HEADERS "./include/*.hpp")
+file(GLOB_RECURSE POIKE_PROJECT_SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp")
+file(GLOB_RECURSE POIKE_PROJECT_HEADERS "${CMAKE_CURRENT_SOURCE_DIR}/include/*.hpp")
 
 # ---- Conan package ----
 
@@ -48,7 +48,7 @@ include("./cmake/conan.cmake")
 conan_check(REQUIRED)
 conan_cmake_run(
     CONANFILE
-    ./conanfile.txt
+    ${CMAKE_CURRENT_SOURCE_DIR}/conanfile.txt
     BASIC_SETUP
     CONAN_COMMAND
     ${CONAN_CMD}
