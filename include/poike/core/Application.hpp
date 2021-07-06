@@ -8,7 +8,7 @@
 
 // clang-format off
 #include <poike/meta/NoCopy.hpp>               // for NoCopy
-#include <poike/meta/NoCopy.hpp>               // for NoMove
+#include <poike/meta/NoMove.hpp>               // for NoMove
 #include <poike/core/DebugUtilsMessenger.hpp>  // for DebugUtilsMessenger
 #include <poike/core/Device.hpp>               // for Device
 #include <poike/core/Instance.hpp>             // for Instance

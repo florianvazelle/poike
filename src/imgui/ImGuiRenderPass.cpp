@@ -4,8 +4,8 @@
 #include <poike/core/Device.hpp>       // for Device
 #include <poike/core/SwapChain.hpp>    // for SwapChain
 #include <stdexcept>               // for runtime_error
-#include "common/QueueFamily.hpp"  // for vkl
-#include "common/RenderPass.hpp"   // for RenderPass
+#include <poike/core/QueueFamily.hpp>  // for vkl
+#include <poike/core/RenderPass.hpp>   // for RenderPass
 // clang-format on
 
 using namespace vkl;
