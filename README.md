@@ -1,12 +1,17 @@
-[![Actions Status](https://github.com/florianvazelle/poike/workflows/build/badge.svg)](https://github.com/florianvazelle/poike/actions)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fdf05c587b994f008692d4e6fd1f0acd)](https://www.codacy.com/gh/florianvazelle/poike/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=florianvazelle/poike&amp;utm_campaign=Badge_Grade)
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux-blue) 
-[![License](https://img.shields.io/github/license/florianvazelle/poike)](https://github.com/florianvazelle/poike/blob/main/LICENSE)
-[![Lines of Code](https://tokei.rs/b1/github/florianvazelle/poike?category=code)](https://tokei.rs)
 
-# Poike
-
-This is work in progress comprehensible Vulkan framework.
+<div align="center">
+  <img src="./poike.svg"/>
+  <h1>Poike</h1>
+  <h2>A work in progress comprehensible Vulkan framework</h2>
+  <h1></h1>
+  <div>
+    <a href="https://github.com/florianvazelle/poike/actions"><img src="https://github.com/florianvazelle/poike/workflows/build/badge.svg"/></a>
+    <img src="https://app.codacy.com/project/badge/Grade/fdf05c587b994f008692d4e6fd1f0acd"/>
+    <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20android-blue"/>
+    <a href="https://github.com/florianvazelle/poike/blob/main/LICENSE"><img src="https://img.shields.io/github/license/florianvazelle/poike"/></a>
+    <a href="https://tokei.rs"><img src="https://tokei.rs/b1/github/florianvazelle/poike?category=code"/></a>
+  </div>
+</div>
 
 ## Building
 
