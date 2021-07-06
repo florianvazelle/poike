@@ -15,18 +15,9 @@
 
 ## Building
 
-### Build and run the standalone target
-
-Use the following command to build and run the executable target.
-
-```bash
-cmake -Bbuild
-cmake --build build
-```
-
 ### Build and run test suite
 
-Use the following commands from the project's root directory to run the test suite.
+Use the following command to build and run the test suite.
 
 ```bash
 cmake -Bbuild
