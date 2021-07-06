@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="2645.6692"
-   height="1222"
+   height="755.90997"
    shape-rendering="crispEdges"
    version="1.1"
    id="svg3030"
@@ -12134,9 +12134,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.25877002"
-     inkscape:cx="1385.4001"
-     inkscape:cy="627.97074"
+     inkscape:zoom="0.25"
+     inkscape:cx="426"
+     inkscape:cy="338"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -12146,1715 +12146,3306 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     height="755.90999px" />
   <polygon
      points="1702,1081 1536,1088 1578,1137 "
      style="fill:#507c78"
      id="polygon1930"
      clip-path="url(#clipPath13901)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1536,1088 1702,1081 1660,880 "
      style="fill:#f4fbfa"
      id="polygon1932"
      clip-path="url(#clipPath13897)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1746,1039 1702,1081 1762,1056 "
      style="fill:#c8dad8"
      id="polygon1934"
      clip-path="url(#clipPath13893)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1702,1081 1785,1127 1762,1056 "
      style="fill:#5f8480"
      id="polygon1936"
      clip-path="url(#clipPath13889)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1702,1081 1578,1137 1785,1127 "
      style="fill:#416667"
      id="polygon1938"
      clip-path="url(#clipPath13885)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1991,739 1770,627 1660,880 "
      style="fill:#d7fdfd"
      id="polygon1940"
      clip-path="url(#clipPath13881)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1702,1081 1746,1039 1660,880 "
      style="fill:#f6fcfb"
      id="polygon1942"
      clip-path="url(#clipPath13877)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1762,1056 1785,1127 1810,1092 "
      style="fill:#5e857c"
      id="polygon1944"
      clip-path="url(#clipPath13873)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1746,1039 1762,1056 2072,971 "
      style="fill:#dcebeb"
      id="polygon1946"
      clip-path="url(#clipPath13869)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1810,1092 1785,1127 1877,1127 "
      style="fill:#43726e"
      id="polygon1948"
      clip-path="url(#clipPath13865)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1762,1056 1810,1092 2072,971 "
      style="fill:#79978c"
      id="polygon1950"
      clip-path="url(#clipPath13861)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1785,1127 1862,1224 1877,1127 "
      style="fill:#314249"
      id="polygon1952"
      clip-path="url(#clipPath13857)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1785,1127 1659,1380 1862,1224 "
      style="fill:#2a3740"
      id="polygon1954"
      clip-path="url(#clipPath13853)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1578,1137 1248,1332 1659,1380 "
      style="fill:#2a343e"
      id="polygon1956"
      clip-path="url(#clipPath13849)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1785,1127 1578,1137 1659,1380 "
      style="fill:#2a3640"
      id="polygon1958"
      clip-path="url(#clipPath13845)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1536,1088 1246,960 1277,1021 "
      style="fill:#d5edeb"
      id="polygon1960"
      clip-path="url(#clipPath13841)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1578,1137 1536,1088 1276,1108 "
      style="fill:#406160"
      id="polygon1962"
      clip-path="url(#clipPath13837)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1536,1088 1277,1021 1276,1108 "
      style="fill:#9cbfba"
      id="polygon1964"
      clip-path="url(#clipPath13833)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1862,1224 1659,1380 1812,1389 "
      style="fill:#2d323e"
      id="polygon1966"
      clip-path="url(#clipPath13829)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1536,1088 1660,880 1246,960 "
      style="fill:#f1fdfc"
      id="polygon1968"
      clip-path="url(#clipPath13825)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1276,1108 1277,1021 1190,1036 "
      style="fill:#99bfb9"
      id="polygon1970"
      clip-path="url(#clipPath13821)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1877,1127 2064,1184 2025,1083 "
      style="fill:#366363"
      id="polygon1972"
      clip-path="url(#clipPath13817)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1810,1092 1877,1127 2025,1083 "
      style="fill:#3e6e6e"
      id="polygon1974"
      clip-path="url(#clipPath13813)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1862,1224 2064,1184 1877,1127 "
      style="fill:#313f46"
      id="polygon1976"
      clip-path="url(#clipPath13809)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1660,880 1770,627 1507,651 "
      style="fill:#d0fcfe"
      id="polygon1978"
      clip-path="url(#clipPath13805)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1246,960 1660,880 1256,765 "
      style="fill:#ecfdfd"
      id="polygon1980"
      clip-path="url(#clipPath13801)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1277,1021 1246,960 1190,1036 "
      style="fill:#a8cdc3"
      id="polygon1982"
      clip-path="url(#clipPath13797)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1246,960 1191,837 1201,929 "
      style="fill:#e2fdfd"
      id="polygon1984"
      clip-path="url(#clipPath13793)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1190,1036 1246,960 1195,945 "
      style="fill:#a5ccc6"
      id="polygon1986"
      clip-path="url(#clipPath13789)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1246,960 1201,929 1195,945 "
      style="fill:#d3f6f8"
      id="polygon1988"
      clip-path="url(#clipPath13785)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1276,1108 1108,1133 1248,1332 "
      style="fill:#264242"
      id="polygon1990"
      clip-path="url(#clipPath13781)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1578,1137 1276,1108 1248,1332 "
      style="fill:#283f42"
      id="polygon1992"
      clip-path="url(#clipPath13777)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1746,1039 1991,739 1660,880 "
      style="fill:#edfdfd"
      id="polygon1994"
      clip-path="url(#clipPath13773)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1810,1092 2025,1083 2072,971 "
      style="fill:#5a7b79"
      id="polygon1996"
      clip-path="url(#clipPath13769)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1862,1224 2042,1313 2064,1184 "
      style="fill:#23393f"
      id="polygon1998"
      clip-path="url(#clipPath13765)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2072,971 2025,1083 2167,1022 "
      style="fill:#5f7e76"
      id="polygon2000"
      clip-path="url(#clipPath13761)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1660,880 1507,651 1256,765 "
      style="fill:#d5fdfd"
      id="polygon2002"
      clip-path="url(#clipPath13757)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1195,945 1201,929 1052,905 "
      style="fill:#c2ebf4"
      id="polygon2004"
      clip-path="url(#clipPath13753)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1246,960 1256,765 1191,837 "
      style="fill:#dbfdfd"
      id="polygon2006"
      clip-path="url(#clipPath13749)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1190,1036 1033,928 1129,1089 "
      style="fill:#89b3b4"
      id="polygon2008"
      clip-path="url(#clipPath13745)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1195,945 1033,928 1190,1036 "
      style="fill:#98babd"
      id="polygon2010"
      clip-path="url(#clipPath13741)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1276,1108 1190,1036 1129,1089 "
      style="fill:#9dbeb2"
      id="polygon2012"
      clip-path="url(#clipPath13737)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1746,1039 2072,971 1991,739 "
      style="fill:#f2fdfc"
      id="polygon2014"
      clip-path="url(#clipPath13733)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1812,1389 1866,1532 1957,1418 "
+     style="fill:#122a38"
+     id="polygon2016"
+     clip-path="url(#clipPath13729)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1862,1224 1812,1389 1957,1418 "
      style="fill:#25343d"
      id="polygon2018"
      clip-path="url(#clipPath13725)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1759,1579 1866,1532 1812,1389 "
+     style="fill:#1a2a3e"
+     id="polygon2020"
+     clip-path="url(#clipPath13721)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1862,1224 1957,1418 2042,1313 "
      style="fill:#2c333e"
      id="polygon2022"
      clip-path="url(#clipPath13717)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2218,1167 2198,1101 2120,1125 "
      style="fill:#346362"
      id="polygon2024"
      clip-path="url(#clipPath13713)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2025,1083 2064,1184 2120,1125 "
      style="fill:#356160"
      id="polygon2026"
      clip-path="url(#clipPath13709)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1129,1089 990,1098 1108,1133 "
      style="fill:#384b50"
      id="polygon2028"
      clip-path="url(#clipPath13705)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1276,1108 1129,1089 1108,1133 "
      style="fill:#566c67"
      id="polygon2030"
      clip-path="url(#clipPath13701)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1659,1380 1759,1579 1812,1389 "
+     style="fill:#192c3c"
+     id="polygon2032"
+     clip-path="url(#clipPath13697)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2042,1313 1957,1418 2033,1472 "
      style="fill:#20333b"
      id="polygon2034"
      clip-path="url(#clipPath13693)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1659,1380 1462,1638 1759,1579 "
+     style="fill:#203141"
+     id="polygon2036"
+     clip-path="url(#clipPath13689)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2025,1083 2120,1125 2167,1022 "
      style="fill:#31636a"
      id="polygon2038"
      clip-path="url(#clipPath13685)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1991,739 2072,971 2150,878 "
      style="fill:#eefdfc"
      id="polygon2040"
      clip-path="url(#clipPath13681)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2120,1125 2198,1101 2167,1022 "
      style="fill:#205566"
      id="polygon2042"
      clip-path="url(#clipPath13677)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2072,971 2167,1022 2158,928 "
      style="fill:#5e847e"
      id="polygon2044"
      clip-path="url(#clipPath13673)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2072,971 2158,928 2150,878 "
      style="fill:#edf9f9"
      id="polygon2046"
      clip-path="url(#clipPath13669)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1991,739 2170,570 1945,600 "
      style="fill:#ccfbfd"
      id="polygon2048"
      clip-path="url(#clipPath13665)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1770,627 1991,739 1945,600 "
      style="fill:#cbfcfd"
      id="polygon2050"
      clip-path="url(#clipPath13661)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1507,651 1770,627 1560,424 "
      style="fill:#bbf2fd"
      id="polygon2052"
      clip-path="url(#clipPath13657)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2064,1184 2218,1167 2120,1125 "
      style="fill:#33484c"
      id="polygon2054"
      clip-path="url(#clipPath13653)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2158,928 2430,864 2391,829 "
      style="fill:#96b69b"
      id="polygon2056"
      clip-path="url(#clipPath13649)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2150,878 2391,829 2203,750 "
      style="fill:#ebfdfd"
      id="polygon2058"
      clip-path="url(#clipPath13645)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1866,1532 2051,1620 2033,1472 "
+     style="fill:#10233a"
+     id="polygon2060"
+     clip-path="url(#clipPath13641)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1957,1418 1866,1532 2033,1472 "
+     style="fill:#182f40"
+     id="polygon2062"
+     clip-path="url(#clipPath13637)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2064,1184 2042,1313 2218,1167 "
      style="fill:#293a3f"
      id="polygon2064"
      clip-path="url(#clipPath13633)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1248,1332 930,1307 1192,1463 "
      style="fill:#2e353f"
      id="polygon2066"
      clip-path="url(#clipPath13629)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1659,1380 1248,1332 1305,1568 "
      style="fill:#253640"
      id="polygon2068"
      clip-path="url(#clipPath13625)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1191,837 1083,779 1052,905 "
      style="fill:#d5fefe"
      id="polygon2070"
      clip-path="url(#clipPath13621)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1201,929 1191,837 1052,905 "
      style="fill:#dbfdfd"
      id="polygon2072"
      clip-path="url(#clipPath13617)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1248,1332 1192,1463 1305,1568 "
      style="fill:#2a343f"
      id="polygon2074"
      clip-path="url(#clipPath13613)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1659,1380 1305,1568 1462,1638 "
+     style="fill:#1e2e3d"
+     id="polygon2076"
+     clip-path="url(#clipPath13609)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1195,945 1052,905 1033,928 "
      style="fill:#a7c7d4"
      id="polygon2078"
      clip-path="url(#clipPath13605)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1248,1332 1108,1133 930,1307 "
      style="fill:#223f40"
      id="polygon2080"
      clip-path="url(#clipPath13601)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1256,765 1102,608 1083,779 "
      style="fill:#c7f8fe"
      id="polygon2082"
      clip-path="url(#clipPath13597)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1191,837 1256,765 1083,779 "
      style="fill:#d1fdfe"
      id="polygon2084"
      clip-path="url(#clipPath13593)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1033,928 1052,905 872,903 "
      style="fill:#a4cbe3"
      id="polygon2086"
      clip-path="url(#clipPath13589)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2042,1313 2283,1283 2218,1167 "
      style="fill:#2e353d"
      id="polygon2088"
      clip-path="url(#clipPath13585)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2158,928 2391,829 2150,878 "
      style="fill:#e3f4f2"
      id="polygon2090"
      clip-path="url(#clipPath13581)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1759,1579 1597,1718 1729,1664 "
+     style="fill:#151a30"
+     id="polygon2092"
+     clip-path="url(#clipPath13577)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1866,1532 1759,1579 1789,1693 "
+     style="fill:#121d38"
+     id="polygon2094"
+     clip-path="url(#clipPath13573)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1129,1089 1033,928 990,1098 "
      style="fill:#83adab"
      id="polygon2096"
      clip-path="url(#clipPath13569)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2155,455 1933,380 1885,489 "
+     style="fill:#b1ebfd"
+     id="polygon2098"
+     clip-path="url(#clipPath13565)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1770,627 1945,600 1885,489 "
      style="fill:#c6f7fd"
      id="polygon2100"
      clip-path="url(#clipPath13561)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1256,765 1507,651 1316,455 "
      style="fill:#bff4fe"
      id="polygon2102"
      clip-path="url(#clipPath13557)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1770,627 1676,387 1560,424 "
      style="fill:#b6eefd"
      id="polygon2104"
      clip-path="url(#clipPath13553)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1462,1638 1305,1568 1357,1656 "
+     style="fill:#182534"
+     id="polygon2106"
+     clip-path="url(#clipPath13549)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1729,1664 1777,1849 1789,1693 "
+     style="fill:#0e1328"
+     id="polygon2108"
+     clip-path="url(#clipPath13545)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1305,1568 1159,1596 1357,1656 "
+     style="fill:#1c2835"
+     id="polygon2110"
+     clip-path="url(#clipPath13541)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1462,1638 1597,1718 1759,1579 "
+     style="fill:#1a1c32"
+     id="polygon2112"
+     clip-path="url(#clipPath13537)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1759,1579 1729,1664 1789,1693 "
+     style="fill:#15172e"
+     id="polygon2114"
+     clip-path="url(#clipPath13533)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1462,1638 1437,1711 1597,1718 "
+     style="fill:#15182f"
+     id="polygon2116"
+     clip-path="url(#clipPath13529)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2391,829 2275,598 2203,750 "
      style="fill:#d7fdfd"
      id="polygon2118"
      clip-path="url(#clipPath13525)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1991,739 2150,878 2203,750 "
      style="fill:#e5fdfd"
      id="polygon2120"
      clip-path="url(#clipPath13521)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1462,1638 1357,1656 1437,1711 "
+     style="fill:#17182d"
+     id="polygon2122"
+     clip-path="url(#clipPath13517)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1770,627 1741,385 1676,387 "
      style="fill:#b6edfd"
      id="polygon2124"
      clip-path="url(#clipPath13513)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1395,316 1313,419 1316,455 "
+     style="fill:#c1eefd"
+     id="polygon2126"
+     clip-path="url(#clipPath13509)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1507,651 1560,424 1316,455 "
      style="fill:#bcf0fd"
      id="polygon2128"
      clip-path="url(#clipPath13505)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1256,765 1178,512 1102,608 "
      style="fill:#bef3fd"
      id="polygon2130"
      clip-path="url(#clipPath13501)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1052,905 1083,779 872,903 "
      style="fill:#e6fdfc"
      id="polygon2132"
      clip-path="url(#clipPath13497)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="990,1098 890,1093 906,1144 "
      style="fill:#323d3f"
      id="polygon2134"
      clip-path="url(#clipPath13493)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1770,627 1885,489 1741,385 "
      style="fill:#c4f3fd"
      id="polygon2136"
      clip-path="url(#clipPath13489)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2033,1472 2302,1404 2042,1313 "
      style="fill:#193037"
      id="polygon2138"
      clip-path="url(#clipPath13485)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2042,1313 2302,1404 2283,1283 "
      style="fill:#272b37"
      id="polygon2140"
      clip-path="url(#clipPath13481)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2198,1101 2446,1110 2167,1022 "
      style="fill:#13455e"
      id="polygon2142"
      clip-path="url(#clipPath13477)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1256,765 1316,455 1178,512 "
      style="fill:#bcf1fd"
      id="polygon2144"
      clip-path="url(#clipPath13473)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1192,1463 863,1423 1159,1596 "
+     style="fill:#282e3b"
+     id="polygon2146"
+     clip-path="url(#clipPath13469)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1305,1568 1192,1463 1159,1596 "
+     style="fill:#212e3c"
+     id="polygon2148"
+     clip-path="url(#clipPath13465)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1437,1711 1278,1830 1440,1820 "
+     style="fill:#1d2233"
+     id="polygon2150"
+     clip-path="url(#clipPath13461)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1866,1532 1789,1693 2051,1620 "
+     style="fill:#0e152e"
+     id="polygon2152"
+     clip-path="url(#clipPath13457)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1560,424 1527,350 1316,455 "
+     style="fill:#ebfcfc"
+     id="polygon2154"
+     clip-path="url(#clipPath13453)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1178,512 1316,455 1313,419 "
+     style="fill:#d4f7fd"
+     id="polygon2156"
+     clip-path="url(#clipPath13449)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1560,424 1676,387 1527,350 "
+     style="fill:#d8f6fc"
+     id="polygon2158"
+     clip-path="url(#clipPath13445)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1614,247 1522,300 1527,350 "
+     style="fill:#d0f0fc"
+     id="polygon2160"
+     clip-path="url(#clipPath13441)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="887,1075 890,1093 990,1098 "
      style="fill:#657e6d"
      id="polygon2162"
      clip-path="url(#clipPath13437)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1108,1133 990,1098 930,1307 "
      style="fill:#253f3f"
      id="polygon2164"
      clip-path="url(#clipPath13433)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1102,608 1107,511 1055,602 "
      style="fill:#d0f7fd"
      id="polygon2166"
      clip-path="url(#clipPath13429)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1083,779 1102,608 1055,602 "
      style="fill:#c1f4fd"
      id="polygon2168"
      clip-path="url(#clipPath13425)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1033,928 887,1075 990,1098 "
      style="fill:#7faaa9"
      id="polygon2170"
      clip-path="url(#clipPath13421)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="624,1315 863,1423 930,1307 "
      style="fill:#2c313b"
      id="polygon2172"
      clip-path="url(#clipPath13417)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="990,1098 906,1144 930,1307 "
      style="fill:#223a3d"
      id="polygon2174"
      clip-path="url(#clipPath13413)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1033,928 872,903 887,1075 "
      style="fill:#77a5b3"
      id="polygon2176"
      clip-path="url(#clipPath13409)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1741,385 1939,331 1724,332 "
+     style="fill:#f6fdfc"
+     id="polygon2178"
+     clip-path="url(#clipPath13405)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1676,387 1741,385 1724,332 "
+     style="fill:#e0f8fd"
+     id="polygon2180"
+     clip-path="url(#clipPath13401)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1885,489 1933,380 1741,385 "
+     style="fill:#b3eafd"
+     id="polygon2182"
+     clip-path="url(#clipPath13397)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1991,739 2203,750 2170,570 "
      style="fill:#d6fdfd"
      id="polygon2184"
      clip-path="url(#clipPath13393)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1945,600 2155,455 1885,489 "
      style="fill:#bbf1fd"
      id="polygon2186"
      clip-path="url(#clipPath13389)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1102,608 1178,512 1107,511 "
      style="fill:#c2f1fd"
      id="polygon2188"
      clip-path="url(#clipPath13385)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1178,512 1186,176 1107,511 "
+     style="fill:#f8fcfc"
+     id="polygon2190"
+     clip-path="url(#clipPath13381)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1597,1718 1437,1711 1539,1809 "
+     style="fill:#171c2e"
+     id="polygon2192"
+     clip-path="url(#clipPath13377)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1729,1664 1597,1718 1777,1849 "
+     style="fill:#141e30"
+     id="polygon2194"
+     clip-path="url(#clipPath13373)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2051,1620 1789,1693 2088,1770 "
+     style="fill:#0d0f25"
+     id="polygon2196"
+     clip-path="url(#clipPath13369)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1437,1711 1440,1820 1539,1809 "
+     style="fill:#191c30"
+     id="polygon2198"
+     clip-path="url(#clipPath13365)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="890,644 841,862 1083,779 "
      style="fill:#c9f8fe"
      id="polygon2200"
      clip-path="url(#clipPath13361)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1083,779 841,862 872,903 "
      style="fill:#eefdfc"
      id="polygon2202"
      clip-path="url(#clipPath13357)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2033,1472 2333,1480 2302,1404 "
+     style="fill:#0d1727"
+     id="polygon2204"
+     clip-path="url(#clipPath13353)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2430,864 2158,928 2167,1022 "
      style="fill:#5e8c7a"
      id="polygon2206"
      clip-path="url(#clipPath13349)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1316,455 1527,350 1395,316 "
+     style="fill:#e2fafd"
+     id="polygon2208"
+     clip-path="url(#clipPath13345)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1178,512 1313,419 1186,176 "
+     style="fill:#fafcfc"
+     id="polygon2210"
+     clip-path="url(#clipPath13341)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1676,387 1614,247 1527,350 "
+     style="fill:#fafcfc"
+     id="polygon2212"
+     clip-path="url(#clipPath13337)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1527,350 1522,300 1395,316 "
+     style="fill:#b1e4fd"
+     id="polygon2214"
+     clip-path="url(#clipPath13333)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1357,1656 1278,1830 1437,1711 "
+     style="fill:#161528"
+     id="polygon2216"
+     clip-path="url(#clipPath13329)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1741,385 1933,380 1939,331 "
+     style="fill:#def8fd"
+     id="polygon2218"
+     clip-path="url(#clipPath13325)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1676,387 1724,332 1614,247 "
+     style="fill:#fafcfc"
+     id="polygon2220"
+     clip-path="url(#clipPath13321)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1933,380 1981,298 1939,331 "
+     style="fill:#cdf2fe"
+     id="polygon2222"
+     clip-path="url(#clipPath13317)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1055,602 890,644 1083,779 "
      style="fill:#c6f6fd"
      id="polygon2224"
      clip-path="url(#clipPath13313)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="887,1075 872,903 774,940 "
      style="fill:#77a5b4"
      id="polygon2226"
      clip-path="url(#clipPath13309)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="890,1093 658,1075 906,1144 "
      style="fill:#303d41"
      id="polygon2228"
      clip-path="url(#clipPath13305)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="906,1144 624,1315 930,1307 "
      style="fill:#1c3437"
      id="polygon2230"
      clip-path="url(#clipPath13301)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2429,1136 2198,1101 2218,1167 "
      style="fill:#355e5d"
      id="polygon2232"
      clip-path="url(#clipPath13297)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2170,570 2203,750 2275,598 "
      style="fill:#cdfcfe"
      id="polygon2234"
      clip-path="url(#clipPath13293)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1945,600 2170,570 2155,455 "
      style="fill:#bff5fd"
      id="polygon2236"
      clip-path="url(#clipPath13289)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1795,1961 1826,1882 1777,1849 "
+     style="fill:#09091d"
+     id="polygon2238"
+     clip-path="url(#clipPath13285)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1597,1718 1539,1809 1777,1849 "
+     style="fill:#101123"
+     id="polygon2240"
+     clip-path="url(#clipPath13281)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2283,1283 2429,1136 2218,1167 "
      style="fill:#2e383f"
      id="polygon2242"
      clip-path="url(#clipPath13277)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2170,570 2275,598 2155,455 "
      style="fill:#bff4fd"
      id="polygon2244"
      clip-path="url(#clipPath13273)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1724,332 1720,240 1614,247 "
+     style="fill:#daf4fc"
+     id="polygon2246"
+     clip-path="url(#clipPath13269)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1395,316 1339,237 1337,263 "
+     style="fill:#9ad8fd"
+     id="polygon2248"
+     clip-path="url(#clipPath13265)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2283,1283 2568,1308 2429,1136 "
      style="fill:#2d353c"
      id="polygon2250"
      clip-path="url(#clipPath13261)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1159,1596 931,1680 1146,1734 "
+     style="fill:#262a37"
+     id="polygon2252"
+     clip-path="url(#clipPath13257)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1357,1656 1159,1596 1146,1734 "
+     style="fill:#191b2f"
+     id="polygon2254"
+     clip-path="url(#clipPath13253)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1724,332 1846,215 1720,240 "
+     style="fill:#ebf9fc"
+     id="polygon2256"
+     clip-path="url(#clipPath13249)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2033,1472 2051,1620 2333,1480 "
+     style="fill:#0e1a31"
+     id="polygon2258"
+     clip-path="url(#clipPath13245)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2283,1283 2302,1404 2482,1446 "
      style="fill:#1b2530"
      id="polygon2260"
      clip-path="url(#clipPath13241)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2051,1620 2372,1567 2333,1480 "
+     style="fill:#10233a"
+     id="polygon2262"
+     clip-path="url(#clipPath13237)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2429,1136 2568,1308 2446,1110 "
      style="fill:#2c3b40"
      id="polygon2264"
      clip-path="url(#clipPath13233)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2198,1101 2429,1136 2446,1110 "
      style="fill:#2e6365"
      id="polygon2266"
      clip-path="url(#clipPath13229)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1614,247 1720,240 1615,229 "
+     style="fill:#b4e5fc"
+     id="polygon2268"
+     clip-path="url(#clipPath13225)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1522,300 1614,247 1615,229 "
+     style="fill:#9dd9fc"
+     id="polygon2270"
+     clip-path="url(#clipPath13221)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2167,1022 2446,1110 2430,864 "
      style="fill:#144b62"
      id="polygon2272"
      clip-path="url(#clipPath13217)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2275,598 2391,829 2564,702 "
      style="fill:#d5fdfe"
      id="polygon2274"
      clip-path="url(#clipPath13213)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="887,1075 658,1075 890,1093 "
      style="fill:#6d8878"
      id="polygon2276"
      clip-path="url(#clipPath13209)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1192,1463 930,1307 863,1423 "
      style="fill:#2f333e"
      id="polygon2278"
      clip-path="url(#clipPath13205)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1107,511 953,505 1055,602 "
      style="fill:#f2fdfc"
      id="polygon2280"
      clip-path="url(#clipPath13201)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="1055,602 953,505 890,644 "
      style="fill:#e6fbfd"
      id="polygon2282"
      clip-path="url(#clipPath13197)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1357,1656 1146,1734 1278,1830 "
+     style="fill:#151629"
+     id="polygon2284"
+     clip-path="url(#clipPath13193)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1539,1809 1795,1961 1777,1849 "
+     style="fill:#0c0b1d"
+     id="polygon2286"
+     clip-path="url(#clipPath13189)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1933,380 2155,455 1981,298 "
+     style="fill:#b1e8fd"
+     id="polygon2288"
+     clip-path="url(#clipPath13185)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1724,332 1939,331 1846,215 "
+     style="fill:#f9fdfc"
+     id="polygon2290"
+     clip-path="url(#clipPath13181)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1432,202 1339,237 1395,316 "
+     style="fill:#95d5fd"
+     id="polygon2292"
+     clip-path="url(#clipPath13177)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1313,419 1395,316 1337,263 "
+     style="fill:#abe1fd"
+     id="polygon2294"
+     clip-path="url(#clipPath13173)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1399,2004 1795,1961 1539,1809 "
+     style="fill:#101326"
+     id="polygon2296"
+     clip-path="url(#clipPath13169)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1789,1693 1777,1849 1826,1882 "
+     style="fill:#0a0919"
+     id="polygon2298"
+     clip-path="url(#clipPath13165)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1789,1693 1826,1882 2088,1770 "
+     style="fill:#0b0b1d"
+     id="polygon2300"
+     clip-path="url(#clipPath13161)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="591,816 641,954 774,940 "
      style="fill:#d1fcfe"
      id="polygon2302"
      clip-path="url(#clipPath13157)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="872,903 841,862 774,940 "
      style="fill:#cff8fb"
      id="polygon2304"
      clip-path="url(#clipPath13153)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2430,864 2594,883 2455,842 "
      style="fill:#4f8ca2"
      id="polygon2306"
      clip-path="url(#clipPath13149)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2391,829 2430,864 2455,842 "
      style="fill:#cbeaee"
      id="polygon2308"
      clip-path="url(#clipPath13145)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1107,511 861,375 953,505 "
+     style="fill:#f8fcfc"
+     id="polygon2310"
+     clip-path="url(#clipPath13141)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1522,300 1432,202 1395,316 "
+     style="fill:#9ad8fd"
+     id="polygon2312"
+     clip-path="url(#clipPath13137)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1313,419 1337,263 1186,176 "
+     style="fill:#f6fcfc"
+     id="polygon2314"
+     clip-path="url(#clipPath13133)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1981,298 1972,233 1917,238 "
+     style="fill:#effbfc"
+     id="polygon2316"
+     clip-path="url(#clipPath13129)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1939,331 1981,298 1917,238 "
+     style="fill:#f5fcfc"
+     id="polygon2318"
+     clip-path="url(#clipPath13125)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1615,229 1720,240 1703,123 "
+     style="fill:#94d4fd"
+     id="polygon2320"
+     clip-path="url(#clipPath13121)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1939,331 1917,238 1846,215 "
+     style="fill:#fafcfc"
+     id="polygon2322"
+     clip-path="url(#clipPath13117)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1522,300 1615,229 1432,202 "
+     style="fill:#95d5fd"
+     id="polygon2324"
+     clip-path="url(#clipPath13113)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1615,229 1703,123 1432,202 "
+     style="fill:#8fd0fe"
+     id="polygon2326"
+     clip-path="url(#clipPath13109)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1846,215 1926,192 1850,184 "
+     style="fill:#f9fcfc"
+     id="polygon2328"
+     clip-path="url(#clipPath13105)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1981,298 2180,276 1972,233 "
+     style="fill:#a3defd"
+     id="polygon2330"
+     clip-path="url(#clipPath13101)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2181,174 1942,175 1972,233 "
+     style="fill:#97d5fd"
+     id="polygon2332"
+     clip-path="url(#clipPath13097)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1917,238 1926,192 1846,215 "
+     style="fill:#f9fcfc"
+     id="polygon2334"
+     clip-path="url(#clipPath13093)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1720,240 1846,215 1850,184 "
+     style="fill:#d0effc"
+     id="polygon2336"
+     clip-path="url(#clipPath13089)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2051,1620 2088,1770 2372,1567 "
+     style="fill:#0c1026"
+     id="polygon2338"
+     clip-path="url(#clipPath13085)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2302,1404 2333,1480 2467,1463 "
+     style="fill:#0a0e1c"
+     id="polygon2340"
+     clip-path="url(#clipPath13081)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1278,1830 1160,1947 1282,1905 "
+     style="fill:#101220"
+     id="polygon2342"
+     clip-path="url(#clipPath13077)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1440,1820 1278,1830 1282,1905 "
+     style="fill:#1b1d2f"
+     id="polygon2344"
+     clip-path="url(#clipPath13073)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1146,1734 1160,1947 1278,1830 "
+     style="fill:#161828"
+     id="polygon2346"
+     clip-path="url(#clipPath13069)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1440,1820 1399,2004 1539,1809 "
+     style="fill:#13142a"
+     id="polygon2348"
+     clip-path="url(#clipPath13065)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2088,1770 1826,1882 2158,1924 "
+     style="fill:#080818"
+     id="polygon2350"
+     clip-path="url(#clipPath13061)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1917,238 1972,233 1926,192 "
+     style="fill:#b7e4fd"
+     id="polygon2352"
+     clip-path="url(#clipPath13057)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1323,89 1261,143 1320,186 "
+     style="fill:#a6d9fd"
+     id="polygon2354"
+     clip-path="url(#clipPath13053)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1339,237 1432,202 1320,186 "
+     style="fill:#90cffd"
+     id="polygon2356"
+     clip-path="url(#clipPath13049)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1337,263 1339,237 1186,176 "
+     style="fill:#ebf7fc"
+     id="polygon2358"
+     clip-path="url(#clipPath13045)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1159,1596 863,1423 931,1680 "
+     style="fill:#252c38"
+     id="polygon2360"
+     clip-path="url(#clipPath13041)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2333,1480 2372,1567 2467,1463 "
+     style="fill:#102942"
+     id="polygon2362"
+     clip-path="url(#clipPath13037)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2430,864 2446,1110 2594,883 "
      style="fill:#154f65"
      id="polygon2364"
      clip-path="url(#clipPath13033)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1850,184 1942,175 1703,123 "
+     style="fill:#95d2fd"
+     id="polygon2366"
+     clip-path="url(#clipPath13029)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1720,240 1850,184 1703,123 "
+     style="fill:#94d3fd"
+     id="polygon2368"
+     clip-path="url(#clipPath13025)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1926,192 1972,233 1942,175 "
+     style="fill:#9bd7fd"
+     id="polygon2370"
+     clip-path="url(#clipPath13021)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1850,184 1926,192 1942,175 "
+     style="fill:#bee9fc"
+     id="polygon2372"
+     clip-path="url(#clipPath13017)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2155,455 2180,276 1981,298 "
+     style="fill:#a8e3fd"
+     id="polygon2374"
+     clip-path="url(#clipPath13013)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2302,1404 2467,1463 2482,1446 "
+     style="fill:#0d121e"
+     id="polygon2376"
+     clip-path="url(#clipPath13009)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="774,940 657,1014 658,1075 "
      style="fill:#80b2bb"
      id="polygon2378"
      clip-path="url(#clipPath13005)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="887,1075 774,940 658,1075 "
      style="fill:#79a8ab"
      id="polygon2380"
      clip-path="url(#clipPath13001)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="931,1680 704,1558 837,1708 "
+     style="fill:#23262f"
+     id="polygon2382"
+     clip-path="url(#clipPath12997)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="656,1008 657,1014 774,940 "
      style="fill:#abd8e8"
      id="polygon2384"
      clip-path="url(#clipPath12993)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="641,954 656,1008 774,940 "
      style="fill:#d9fdfd"
      id="polygon2386"
      clip-path="url(#clipPath12989)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="890,644 674,605 841,862 "
      style="fill:#bff2fd"
      id="polygon2388"
      clip-path="url(#clipPath12985)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="658,1075 657,1014 646,1058 "
      style="fill:#7bacac"
      id="polygon2390"
      clip-path="url(#clipPath12981)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2275,598 2348,406 2155,455 "
      style="fill:#b9f0fd"
      id="polygon2392"
      clip-path="url(#clipPath12977)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2155,455 2348,406 2180,276 "
+     style="fill:#ace6fd"
+     id="polygon2394"
+     clip-path="url(#clipPath12973)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1282,1905 1293,2004 1399,2004 "
+     style="fill:#131c28"
+     id="polygon2396"
+     clip-path="url(#clipPath12969)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1440,1820 1282,1905 1399,2004 "
+     style="fill:#161a2a"
+     id="polygon2398"
+     clip-path="url(#clipPath12965)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="657,1014 656,1008 646,1058 "
      style="fill:#84b4b9"
      id="polygon2400"
      clip-path="url(#clipPath12961)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="863,1423 704,1558 931,1680 "
+     style="fill:#242732"
+     id="polygon2402"
+     clip-path="url(#clipPath12957)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2275,598 2432,402 2348,406 "
      style="fill:#b6eefd"
      id="polygon2404"
      clip-path="url(#clipPath12953)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="953,505 811,421 771,564 "
+     style="fill:#fafcfc"
+     id="polygon2406"
+     clip-path="url(#clipPath12949)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="890,644 953,505 771,564 "
      style="fill:#f6fdfc"
      id="polygon2408"
      clip-path="url(#clipPath12945)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2283,1283 2482,1446 2568,1308 "
      style="fill:#232834"
      id="polygon2410"
      clip-path="url(#clipPath12941)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="841,862 591,816 774,940 "
      style="fill:#cffcfe"
      id="polygon2412"
      clip-path="url(#clipPath12937)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="646,1058 656,1008 546,1066 "
      style="fill:#82b4b4"
      id="polygon2414"
      clip-path="url(#clipPath12933)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1320,186 1261,143 1186,176 "
+     style="fill:#a5d8fd"
+     id="polygon2416"
+     clip-path="url(#clipPath12929)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1339,237 1320,186 1186,176 "
+     style="fill:#bae4fd"
+     id="polygon2418"
+     clip-path="url(#clipPath12925)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1432,202 1323,89 1320,186 "
+     style="fill:#94d0fd"
+     id="polygon2420"
+     clip-path="url(#clipPath12921)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2482,1446 2467,1463 2483,1542 "
+     style="fill:#121f34"
+     id="polygon2422"
+     clip-path="url(#clipPath12917)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2568,1308 2482,1446 2614,1430 "
      style="fill:#12232d"
      id="polygon2424"
      clip-path="url(#clipPath12913)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2467,1463 2372,1567 2483,1542 "
+     style="fill:#112434"
+     id="polygon2426"
+     clip-path="url(#clipPath12909)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2372,1567 2543,1603 2483,1542 "
+     style="fill:#070b1e"
+     id="polygon2428"
+     clip-path="url(#clipPath12905)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2088,1770 2232,1849 2372,1567 "
+     style="fill:#07091c"
+     id="polygon2430"
+     clip-path="url(#clipPath12901)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2446,1110 2705,1060 2594,883 "
      style="fill:#174661"
      id="polygon2432"
      clip-path="url(#clipPath12897)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2391,829 2455,842 2564,702 "
      style="fill:#e1fdfd"
      id="polygon2434"
      clip-path="url(#clipPath12893)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1146,1734 931,1680 1160,1947 "
+     style="fill:#1f202f"
+     id="polygon2436"
+     clip-path="url(#clipPath12889)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1282,1905 1259,2004 1293,2004 "
+     style="fill:#131528"
+     id="polygon2438"
+     clip-path="url(#clipPath12885)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2088,1770 2158,1924 2232,1849 "
+     style="fill:#060612"
+     id="polygon2440"
+     clip-path="url(#clipPath12881)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1282,1905 1160,1947 1259,2004 "
+     style="fill:#0a0b19"
+     id="polygon2442"
+     clip-path="url(#clipPath12877)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2455,842 2594,883 2564,702 "
      style="fill:#dffbfd"
      id="polygon2444"
      clip-path="url(#clipPath12873)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1160,1947 931,1680 857,2004 "
+     style="fill:#1b1b2a"
+     id="polygon2446"
+     clip-path="url(#clipPath12869)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="658,1075 624,1315 906,1144 "
      style="fill:#263e3d"
      id="polygon2448"
      clip-path="url(#clipPath12865)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1432,202 1703,123 1323,89 "
+     style="fill:#87cafd"
+     id="polygon2450"
+     clip-path="url(#clipPath12861)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1186,176 1163,43 1117,69 "
+     style="fill:#cbe7fc"
+     id="polygon2452"
+     clip-path="url(#clipPath12857)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1826,1882 1795,1961 2158,1924 "
+     style="fill:#111d32"
+     id="polygon2454"
+     clip-path="url(#clipPath12853)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1795,1961 2179,1980 2158,1924 "
+     style="fill:#152639"
+     id="polygon2456"
+     clip-path="url(#clipPath12849)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1186,176 965,46 861,375 "
+     style="fill:#fcfcfc"
+     id="polygon2458"
+     clip-path="url(#clipPath12845)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1107,511 1186,176 861,375 "
+     style="fill:#fbfcfc"
+     id="polygon2460"
+     clip-path="url(#clipPath12841)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="646,1058 546,1066 658,1075 "
      style="fill:#69958c"
      id="polygon2462"
      clip-path="url(#clipPath12837)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="658,1075 546,1066 624,1315 "
      style="fill:#29403e"
      id="polygon2464"
      clip-path="url(#clipPath12833)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="953,505 861,375 811,421 "
+     style="fill:#f0fbfd"
+     id="polygon2466"
+     clip-path="url(#clipPath12829)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="890,644 771,564 674,605 "
      style="fill:#dcf8fd"
      id="polygon2468"
      clip-path="url(#clipPath12825)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="771,564 811,421 749,497 "
+     style="fill:#f0fdfc"
+     id="polygon2470"
+     clip-path="url(#clipPath12821)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="863,1423 624,1315 704,1558 "
      style="fill:#2b2c38"
      id="polygon2472"
      clip-path="url(#clipPath12817)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2275,598 2606,587 2432,402 "
      style="fill:#bcf2fd"
      id="polygon2474"
      clip-path="url(#clipPath12813)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2180,276 2325,240 2181,174 "
+     style="fill:#9dd9fd"
+     id="polygon2476"
+     clip-path="url(#clipPath12809)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="771,564 675,494 674,605 "
      style="fill:#d4f4fd"
      id="polygon2478"
      clip-path="url(#clipPath12805)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2568,1308 2689,1245 2662,1162 "
      style="fill:#2f3d41"
      id="polygon2480"
      clip-path="url(#clipPath12801)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2446,1110 2568,1308 2662,1162 "
      style="fill:#2c3d41"
      id="polygon2482"
      clip-path="url(#clipPath12797)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2564,702 2793,713 2606,587 "
      style="fill:#d0fdfe"
      id="polygon2484"
      clip-path="url(#clipPath12793)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2348,406 2325,240 2180,276 "
+     style="fill:#a5e0fd"
+     id="polygon2486"
+     clip-path="url(#clipPath12789)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1972,233 2180,276 2181,174 "
+     style="fill:#9bd9fd"
+     id="polygon2488"
+     clip-path="url(#clipPath12785)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1703,123 1942,175 2260,0 "
+     style="fill:#8ccbfd"
+     id="polygon2490"
+     clip-path="url(#clipPath12781)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="841,862 674,605 591,816 "
      style="fill:#c1f4fd"
      id="polygon2492"
      clip-path="url(#clipPath12777)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="656,1008 641,954 546,1066 "
      style="fill:#cbeff1"
      id="polygon2494"
      clip-path="url(#clipPath12773)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2483,1542 2620,1491 2482,1446 "
+     style="fill:#0f2a3b"
+     id="polygon2496"
+     clip-path="url(#clipPath12769)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2482,1446 2620,1491 2614,1430 "
+     style="fill:#080d1c"
+     id="polygon2498"
+     clip-path="url(#clipPath12765)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="641,954 591,816 546,1066 "
      style="fill:#d4fcfd"
      id="polygon2500"
      clip-path="url(#clipPath12761)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2372,1567 2388,1870 2543,1603 "
+     style="fill:#070b1c"
+     id="polygon2502"
+     clip-path="url(#clipPath12757)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2232,1849 2388,1870 2372,1567 "
+     style="fill:#050411"
+     id="polygon2504"
+     clip-path="url(#clipPath12753)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2232,1849 2158,1924 2280,1906 "
+     style="fill:#080b1a"
+     id="polygon2506"
+     clip-path="url(#clipPath12749)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1795,1961 2254,2004 2179,1980 "
+     style="fill:#0d122a"
+     id="polygon2508"
+     clip-path="url(#clipPath12745)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2280,1906 2158,1924 2179,1980 "
+     style="fill:#0d1a30"
+     id="polygon2510"
+     clip-path="url(#clipPath12741)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2348,406 2432,402 2325,240 "
+     style="fill:#a8e3fd"
+     id="polygon2512"
+     clip-path="url(#clipPath12737)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2568,1308 2691,1375 2689,1245 "
      style="fill:#272d38"
      id="polygon2514"
      clip-path="url(#clipPath12733)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2446,1110 2662,1162 2705,1060 "
      style="fill:#326163"
      id="polygon2516"
      clip-path="url(#clipPath12729)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2662,1162 2878,1158 2705,1060 "
      style="fill:#345c5f"
      id="polygon2518"
      clip-path="url(#clipPath12725)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2483,1542 2569,1603 2620,1491 "
+     style="fill:#0c2039"
+     id="polygon2520"
+     clip-path="url(#clipPath12721)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2568,1308 2614,1430 2691,1375 "
      style="fill:#1f2732"
      id="polygon2522"
      clip-path="url(#clipPath12717)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2543,1603 2582,1873 2569,1603 "
+     style="fill:#080e23"
+     id="polygon2524"
+     clip-path="url(#clipPath12713)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2483,1542 2543,1603 2569,1603 "
+     style="fill:#091224"
+     id="polygon2526"
+     clip-path="url(#clipPath12709)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2594,883 2793,713 2564,702 "
      style="fill:#e0fdfd"
      id="polygon2528"
      clip-path="url(#clipPath12705)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2275,598 2564,702 2606,587 "
      style="fill:#c9fafe"
      id="polygon2530"
      clip-path="url(#clipPath12701)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2325,240 2432,402 2620,324 "
+     style="fill:#a5e0fd"
+     id="polygon2532"
+     clip-path="url(#clipPath12697)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2916,1028 2743,945 2714,996 "
      style="fill:#1d5b6c"
      id="polygon2534"
      clip-path="url(#clipPath12693)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2594,883 2705,1060 2714,996 "
      style="fill:#164864"
      id="polygon2536"
      clip-path="url(#clipPath12689)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="771,564 749,497 675,494 "
+     style="fill:#d2f2fd"
+     id="polygon2538"
+     clip-path="url(#clipPath12685)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="591,816 674,605 406,773 "
      style="fill:#baeffd"
      id="polygon2540"
      clip-path="url(#clipPath12681)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="749,497 653,402 675,494 "
+     style="fill:#d7effd"
+     id="polygon2542"
+     clip-path="url(#clipPath12677)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="811,421 653,402 749,497 "
+     style="fill:#dff3fd"
+     id="polygon2544"
+     clip-path="url(#clipPath12673)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1261,143 1163,43 1186,176 "
+     style="fill:#93ccfd"
+     id="polygon2546"
+     clip-path="url(#clipPath12669)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="811,421 861,375 653,402 "
+     style="fill:#ebfafd"
+     id="polygon2548"
+     clip-path="url(#clipPath12665)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1323,89 1163,43 1261,143 "
+     style="fill:#9bd1fd"
+     id="polygon2550"
+     clip-path="url(#clipPath12661)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1703,123 1182,0 1323,89 "
+     style="fill:#7fc4fd"
+     id="polygon2552"
+     clip-path="url(#clipPath12657)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1323,89 1182,0 1163,43 "
+     style="fill:#89c7fd"
+     id="polygon2554"
+     clip-path="url(#clipPath12653)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2280,1906 2254,2004 2388,1870 "
+     style="fill:#0b1429"
+     id="polygon2556"
+     clip-path="url(#clipPath12649)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2232,1849 2280,1906 2388,1870 "
+     style="fill:#070514"
+     id="polygon2558"
+     clip-path="url(#clipPath12645)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2620,1491 2769,1481 2691,1375 "
+     style="fill:#0f1c2f"
+     id="polygon2560"
+     clip-path="url(#clipPath12641)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2614,1430 2620,1491 2691,1375 "
+     style="fill:#0f1623"
+     id="polygon2562"
+     clip-path="url(#clipPath12637)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2936,984 2746,927 2743,945 "
      style="fill:#88afba"
      id="polygon2564"
      clip-path="url(#clipPath12633)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2916,1028 2714,996 2705,1060 "
      style="fill:#1b5267"
      id="polygon2566"
      clip-path="url(#clipPath12629)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2594,883 2714,996 2743,945 "
      style="fill:#215f72"
      id="polygon2568"
      clip-path="url(#clipPath12625)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2853,850 2793,713 2746,927 "
      style="fill:#edfdfd"
      id="polygon2570"
      clip-path="url(#clipPath12621)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2594,883 2743,945 2746,927 "
      style="fill:#aedee9"
      id="polygon2572"
      clip-path="url(#clipPath12617)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1795,1961 1399,2004 2254,2004 "
+     style="fill:#0d1325"
+     id="polygon2574"
+     clip-path="url(#clipPath12613)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2280,1906 2179,1980 2254,2004 "
+     style="fill:#0a1027"
+     id="polygon2576"
+     clip-path="url(#clipPath12609)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1703,123 2260,0 1182,0 "
+     style="fill:#81c4fd"
+     id="polygon2578"
+     clip-path="url(#clipPath12605)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1117,69 1163,43 1119,0 "
+     style="fill:#b9dffd"
+     id="polygon2580"
+     clip-path="url(#clipPath12601)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="861,375 621,174 653,402 "
+     style="fill:#fafcfc"
+     id="polygon2582"
+     clip-path="url(#clipPath12597)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1117,69 965,46 1186,176 "
+     style="fill:#fbfcfc"
+     id="polygon2584"
+     clip-path="url(#clipPath12593)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="674,605 321,672 406,773 "
      style="fill:#baecfd"
      id="polygon2586"
      clip-path="url(#clipPath12589)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="546,1066 383,1085 418,1275 "
      style="fill:#2a3c3c"
      id="polygon2588"
      clip-path="url(#clipPath12585)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1163,43 1182,0 1119,0 "
+     style="fill:#bee0fd"
+     id="polygon2590"
+     clip-path="url(#clipPath12581)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1117,69 1119,0 1044,18 "
+     style="fill:#dcf1fd"
+     id="polygon2592"
+     clip-path="url(#clipPath12577)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2606,587 2793,713 2670,501 "
      style="fill:#c7f8fe"
      id="polygon2594"
      clip-path="url(#clipPath12573)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2432,402 2606,587 2670,501 "
+     style="fill:#b8effd"
+     id="polygon2596"
+     clip-path="url(#clipPath12569)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1117,69 1044,18 965,46 "
+     style="fill:#f0f9fc"
+     id="polygon2598"
+     clip-path="url(#clipPath12565)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="837,1708 548,1810 857,2004 "
+     style="fill:#1c1f2a"
+     id="polygon2600"
+     clip-path="url(#clipPath12561)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="931,1680 837,1708 857,2004 "
+     style="fill:#1f202a"
+     id="polygon2602"
+     clip-path="url(#clipPath12557)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1259,2004 1160,1947 857,2004 "
+     style="fill:#161a27"
+     id="polygon2604"
+     clip-path="url(#clipPath12553)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1044,18 1119,0 1027,0 "
+     style="fill:#f5fdfd"
+     id="polygon2606"
+     clip-path="url(#clipPath12549)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="965,46 1044,18 1027,0 "
+     style="fill:#b9defd"
+     id="polygon2608"
+     clip-path="url(#clipPath12545)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="379,1038 383,1069 546,1066 "
      style="fill:#4a869f"
      id="polygon2610"
      clip-path="url(#clipPath12541)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="624,1315 546,1066 418,1275 "
      style="fill:#21393a"
      id="polygon2612"
      clip-path="url(#clipPath12537)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="704,1558 624,1315 428,1479 "
      style="fill:#292932"
      id="polygon2614"
      clip-path="url(#clipPath12533)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="837,1708 704,1558 523,1706 "
+     style="fill:#1b232c"
+     id="polygon2616"
+     clip-path="url(#clipPath12529)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2594,883 2746,927 2793,713 "
      style="fill:#ebfdfd"
      id="polygon2618"
      clip-path="url(#clipPath12525)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2936,984 2853,850 2746,927 "
      style="fill:#f8fdfc"
      id="polygon2620"
      clip-path="url(#clipPath12521)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2620,1491 2774,1535 2769,1481 "
+     style="fill:#1a3c48"
+     id="polygon2622"
+     clip-path="url(#clipPath12517)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2689,1245 2691,1375 2878,1158 "
      style="fill:#2a363a"
      id="polygon2624"
      clip-path="url(#clipPath12513)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2764,1595 2774,1535 2620,1491 "
+     style="fill:#0a1a34"
+     id="polygon2626"
+     clip-path="url(#clipPath12509)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="375,1025 379,1038 546,1066 "
      style="fill:#94d2e5"
      id="polygon2628"
      clip-path="url(#clipPath12505)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="546,1066 383,1069 383,1085 "
      style="fill:#446161"
      id="polygon2630"
      clip-path="url(#clipPath12501)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="359,871 375,1025 546,1066 "
      style="fill:#d4fcfd"
      id="polygon2632"
      clip-path="url(#clipPath12497)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="383,1085 383,1069 300,1045 "
      style="fill:#2d6075"
      id="polygon2634"
      clip-path="url(#clipPath12493)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2954,239 2841,187 2671,407 "
+     style="fill:#a4ddfd"
+     id="polygon2636"
+     clip-path="url(#clipPath12489)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2432,402 2670,501 2671,407 "
+     style="fill:#b1eafd"
+     id="polygon2638"
+     clip-path="url(#clipPath12485)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2181,174 2325,240 2260,0 "
+     style="fill:#96d2fd"
+     id="polygon2640"
+     clip-path="url(#clipPath12481)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="1942,175 2181,174 2260,0 "
+     style="fill:#91cffd"
+     id="polygon2642"
+     clip-path="url(#clipPath12477)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2325,240 2553,0 2260,0 "
+     style="fill:#95cffe"
+     id="polygon2644"
+     clip-path="url(#clipPath12473)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2432,402 2671,407 2620,324 "
+     style="fill:#aae4fd"
+     id="polygon2646"
+     clip-path="url(#clipPath12469)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="591,816 359,871 546,1066 "
      style="fill:#d3fbfd"
      id="polygon2648"
      clip-path="url(#clipPath12465)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="383,1069 379,1038 300,1045 "
      style="fill:#347b9f"
      id="polygon2650"
      clip-path="url(#clipPath12461)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="675,494 321,672 674,605 "
      style="fill:#e3f8fd"
      id="polygon2652"
      clip-path="url(#clipPath12457)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2569,1603 2764,1595 2620,1491 "
+     style="fill:#09152a"
+     id="polygon2654"
+     clip-path="url(#clipPath12453)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2689,1245 2878,1158 2662,1162 "
      style="fill:#2d3a3e"
      id="polygon2656"
      clip-path="url(#clipPath12449)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2388,1870 2582,1873 2543,1603 "
+     style="fill:#050716"
+     id="polygon2658"
+     clip-path="url(#clipPath12445)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2990,1349 2878,1158 2691,1375 "
      style="fill:#253137"
      id="polygon2660"
      clip-path="url(#clipPath12441)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2662,60 2614,61 2603,120 "
+     style="fill:#b8e0fc"
+     id="polygon2662"
+     clip-path="url(#clipPath12437)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2388,1870 2548,2004 2582,1873 "
+     style="fill:#080a1e"
+     id="polygon2664"
+     clip-path="url(#clipPath12433)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="405,1676 436,1601 245,1630 "
+     style="fill:#172c2b"
+     id="polygon2666"
+     clip-path="url(#clipPath12429)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="152,1613 245,1630 428,1479 "
+     style="fill:#223130"
+     id="polygon2668"
+     clip-path="url(#clipPath12425)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="624,1315 418,1275 428,1479 "
      style="fill:#2b2e36"
      id="polygon2670"
      clip-path="url(#clipPath12421)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2769,1481 2990,1349 2691,1375 "
+     style="fill:#122a31"
+     id="polygon2672"
+     clip-path="url(#clipPath12417)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2569,1603 2803,1767 2764,1595 "
+     style="fill:#060c1e"
+     id="polygon2674"
+     clip-path="url(#clipPath12413)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2769,1481 2774,1535 2990,1349 "
+     style="fill:#152b38"
+     id="polygon2676"
+     clip-path="url(#clipPath12409)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="704,1558 436,1601 523,1706 "
+     style="fill:#202a2d"
+     id="polygon2678"
+     clip-path="url(#clipPath12405)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="591,816 406,773 359,871 "
      style="fill:#eafbfc"
      id="polygon2680"
      clip-path="url(#clipPath12401)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="965,46 815,0 827,39 "
+     style="fill:#c9e7fc"
+     id="polygon2682"
+     clip-path="url(#clipPath12397)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="861,375 965,46 827,39 "
+     style="fill:#fbfcfc"
+     id="polygon2684"
+     clip-path="url(#clipPath12393)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="675,494 424,346 321,672 "
      style="fill:#f9fcfc"
      id="polygon2686"
      clip-path="url(#clipPath12389)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2705,1060 2878,1158 2916,1028 "
      style="fill:#2c6369"
      id="polygon2688"
      clip-path="url(#clipPath12385)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3096,1023 2936,984 2916,1028 "
      style="fill:#45797e"
      id="polygon2690"
      clip-path="url(#clipPath12381)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="383,1085 274,1107 418,1275 "
      style="fill:#273a3a"
      id="polygon2692"
      clip-path="url(#clipPath12377)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="704,1558 428,1479 436,1601 "
+     style="fill:#283133"
+     id="polygon2694"
+     clip-path="url(#clipPath12373)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="523,1706 447,1877 548,1810 "
+     style="fill:#202429"
+     id="polygon2696"
+     clip-path="url(#clipPath12369)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="837,1708 523,1706 548,1810 "
+     style="fill:#191a24"
+     id="polygon2698"
+     clip-path="url(#clipPath12365)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="375,1025 359,871 300,1045 "
      style="fill:#cefafc"
      id="polygon2700"
      clip-path="url(#clipPath12361)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="379,1038 375,1025 300,1045 "
      style="fill:#85c8df"
      id="polygon2702"
      clip-path="url(#clipPath12357)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3096,1103 3096,1023 2916,1028 "
      style="fill:#306b71"
      id="polygon2704"
      clip-path="url(#clipPath12353)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2743,945 2916,1028 2936,984 "
      style="fill:#336d77"
      id="polygon2706"
      clip-path="url(#clipPath12349)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2954,239 2671,407 3096,457 "
+     style="fill:#aae3fd"
+     id="polygon2708"
+     clip-path="url(#clipPath12345)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2388,1870 2254,2004 2548,2004 "
+     style="fill:#0a1026"
+     id="polygon2710"
+     clip-path="url(#clipPath12341)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2569,1603 2582,1873 2803,1767 "
+     style="fill:#050714"
+     id="polygon2712"
+     clip-path="url(#clipPath12337)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="965,46 1027,0 815,0 "
+     style="fill:#9bcdfc"
+     id="polygon2714"
+     clip-path="url(#clipPath12333)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="861,375 827,39 621,174 "
+     style="fill:#fcfcfc"
+     id="polygon2716"
+     clip-path="url(#clipPath12329)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="827,39 769,0 621,174 "
+     style="fill:#e5f4fc"
+     id="polygon2718"
+     clip-path="url(#clipPath12325)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="359,871 406,773 248,820 "
      style="fill:#f9fdfc"
      id="polygon2720"
      clip-path="url(#clipPath12321)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="359,871 221,883 300,1045 "
      style="fill:#ccf9fe"
      id="polygon2722"
      clip-path="url(#clipPath12317)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="300,1045 221,883 276,1057 "
      style="fill:#ccf9fd"
      id="polygon2724"
      clip-path="url(#clipPath12313)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="383,1085 300,1045 275,1076 "
      style="fill:#3c6a72"
      id="polygon2726"
      clip-path="url(#clipPath12309)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="300,1045 276,1057 275,1076 "
      style="fill:#659cb2"
      id="polygon2728"
      clip-path="url(#clipPath12305)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="383,1085 275,1076 274,1107 "
      style="fill:#324646"
      id="polygon2730"
      clip-path="url(#clipPath12301)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="621,174 769,0 603,166 "
+     style="fill:#99cefc"
+     id="polygon2732"
+     clip-path="url(#clipPath12297)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="653,402 440,231 424,346 "
+     style="fill:#f9fcfc"
+     id="polygon2734"
+     clip-path="url(#clipPath12293)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="653,402 424,346 675,494 "
+     style="fill:#e7f5fd"
+     id="polygon2736"
+     clip-path="url(#clipPath12289)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="827,39 815,0 769,0 "
+     style="fill:#98cafb"
+     id="polygon2738"
+     clip-path="url(#clipPath12285)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2582,1873 2548,2004 2672,1920 "
+     style="fill:#060512"
+     id="polygon2740"
+     clip-path="url(#clipPath12281)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="428,1479 245,1630 436,1601 "
+     style="fill:#243732"
+     id="polygon2742"
+     clip-path="url(#clipPath12277)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="523,1706 436,1601 405,1676 "
+     style="fill:#222a2d"
+     id="polygon2744"
+     clip-path="url(#clipPath12273)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2325,240 2620,324 2603,120 "
+     style="fill:#9ed9fd"
+     id="polygon2746"
+     clip-path="url(#clipPath12269)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2787,185 2662,60 2603,120 "
+     style="fill:#a1d5fd"
+     id="polygon2748"
+     clip-path="url(#clipPath12265)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2603,120 2620,324 2787,185 "
+     style="fill:#9cd6fd"
+     id="polygon2750"
+     clip-path="url(#clipPath12261)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2582,1873 2672,1920 2803,1767 "
+     style="fill:#070a1d"
+     id="polygon2752"
+     clip-path="url(#clipPath12257)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3096,1452 3066,1398 2990,1349 "
      style="fill:#0c262a"
      id="polygon2754"
      clip-path="url(#clipPath12253)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="603,166 769,0 574,158 "
+     style="fill:#80c2fd"
+     id="polygon2756"
+     clip-path="url(#clipPath12249)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="621,174 440,231 653,402 "
+     style="fill:#f7fcfc"
+     id="polygon2758"
+     clip-path="url(#clipPath12245)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="406,773 321,672 248,820 "
      style="fill:#ebfbfc"
      id="polygon2760"
      clip-path="url(#clipPath12241)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="275,1076 276,1057 173,1041 "
      style="fill:#77aebf"
      id="polygon2762"
      clip-path="url(#clipPath12237)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="274,1107 275,1076 166,1057 "
      style="fill:#395a58"
      id="polygon2764"
      clip-path="url(#clipPath12233)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="321,672 213,730 248,820 "
      style="fill:#bbecfd"
      id="polygon2766"
      clip-path="url(#clipPath12229)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="603,166 440,231 621,174 "
+     style="fill:#ecf9fc"
+     id="polygon2768"
+     clip-path="url(#clipPath12225)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="3096,1452 2990,1349 2774,1535 "
+     style="fill:#0f2833"
+     id="polygon2770"
+     clip-path="url(#clipPath12221)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="248,820 213,730 221,883 "
      style="fill:#c4f1fd"
      id="polygon2772"
      clip-path="url(#clipPath12217)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="359,871 248,820 221,883 "
      style="fill:#d5f8fd"
      id="polygon2774"
      clip-path="url(#clipPath12213)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="405,1676 232,1783 447,1877 "
+     style="fill:#171722"
+     id="polygon2776"
+     clip-path="url(#clipPath12209)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2787,185 2620,324 2671,407 "
+     style="fill:#a3ddfd"
+     id="polygon2778"
+     clip-path="url(#clipPath12205)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2325,240 2603,120 2553,0 "
+     style="fill:#9ad3fd"
+     id="polygon2780"
+     clip-path="url(#clipPath12201)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2603,120 2614,61 2553,0 "
+     style="fill:#c5e8fd"
+     id="polygon2782"
+     clip-path="url(#clipPath12197)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2672,1920 2548,2004 2701,1969 "
+     style="fill:#070614"
+     id="polygon2784"
+     clip-path="url(#clipPath12193)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2803,1767 2672,1920 2701,1969 "
+     style="fill:#070c21"
+     id="polygon2786"
+     clip-path="url(#clipPath12189)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="152,1613 428,1479 0,1406 "
+     style="fill:#252b31"
+     id="polygon2788"
+     clip-path="url(#clipPath12185)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="523,1706 405,1676 447,1877 "
+     style="fill:#202129"
+     id="polygon2790"
+     clip-path="url(#clipPath12181)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="857,2004 548,1810 502,2004 "
+     style="fill:#1c2028"
+     id="polygon2792"
+     clip-path="url(#clipPath12177)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="321,672 262,462 245,657 "
      style="fill:#e0f6fd"
      id="polygon2794"
      clip-path="url(#clipPath12173)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="603,166 574,158 440,231 "
+     style="fill:#d6eefd"
+     id="polygon2796"
+     clip-path="url(#clipPath12169)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="321,672 424,346 262,462 "
      style="fill:#f8fcfc"
      id="polygon2798"
      clip-path="url(#clipPath12165)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="574,158 382,154 440,231 "
+     style="fill:#abd6fd"
+     id="polygon2800"
+     clip-path="url(#clipPath12161)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="321,672 245,657 213,730 "
      style="fill:#b5e7fd"
      id="polygon2802"
      clip-path="url(#clipPath12157)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,1025 43,1056 173,1041 "
      style="fill:#9ad7eb"
      id="polygon2804"
      clip-path="url(#clipPath12153)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="276,1057 221,883 173,1041 "
      style="fill:#cefbfe"
      id="polygon2806"
      clip-path="url(#clipPath12149)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2841,187 2787,185 2671,407 "
+     style="fill:#a2dbfd"
+     id="polygon2808"
+     clip-path="url(#clipPath12145)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2553,0 2614,61 2662,60 "
+     style="fill:#e2f6fd"
+     id="polygon2810"
+     clip-path="url(#clipPath12141)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="43,1056 158,1068 166,1057 "
      style="fill:#467f90"
      id="polygon2812"
      clip-path="url(#clipPath12137)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="275,1076 173,1041 166,1057 "
      style="fill:#428299"
      id="polygon2814"
      clip-path="url(#clipPath12133)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="173,1041 43,1056 166,1057 "
      style="fill:#2b799b"
      id="polygon2816"
      clip-path="url(#clipPath12129)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="274,1107 166,1057 158,1068 "
      style="fill:#2a4748"
      id="polygon2818"
      clip-path="url(#clipPath12125)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2853,850 3096,696 2793,713 "
      style="fill:#e4fdfd"
      id="polygon2820"
      clip-path="url(#clipPath12121)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="548,1810 447,1877 502,2004 "
+     style="fill:#1f1f26"
+     id="polygon2822"
+     clip-path="url(#clipPath12117)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2878,1158 3096,1103 2916,1028 "
      style="fill:#2e656a"
      id="polygon2824"
      clip-path="url(#clipPath12113)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2853,850 2936,984 3096,761 "
      style="fill:#f7fdfc"
      id="polygon2826"
      clip-path="url(#clipPath12109)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2878,1158 3096,1155 3096,1103 "
      style="fill:#3a6160"
      id="polygon2828"
      clip-path="url(#clipPath12105)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2936,984 3096,1023 3096,1012 "
      style="fill:#88a8b8"
      id="polygon2830"
      clip-path="url(#clipPath12101)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2990,1349 3096,1312 3096,1155 "
      style="fill:#262e34"
      id="polygon2832"
      clip-path="url(#clipPath12097)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2878,1158 2990,1349 3096,1155 "
      style="fill:#2b383c"
      id="polygon2834"
      clip-path="url(#clipPath12093)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="424,346 244,266 262,462 "
+     style="fill:#fbfcfc"
+     id="polygon2836"
+     clip-path="url(#clipPath12089)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="213,730 245,657 124,587 "
      style="fill:#b9e7fd"
      id="polygon2838"
      clip-path="url(#clipPath12085)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,1371 428,1479 418,1275 "
      style="fill:#272f37"
      id="polygon2840"
      clip-path="url(#clipPath12081)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="502,2004 447,1877 251,2004 "
+     style="fill:#192025"
+     id="polygon2842"
+     clip-path="url(#clipPath12077)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="3096,1592 3096,1452 2774,1535 "
+     style="fill:#0a192c"
+     id="polygon2844"
+     clip-path="url(#clipPath12073)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="3096,1592 2774,1535 2764,1595 "
+     style="fill:#0e2639"
+     id="polygon2846"
+     clip-path="url(#clipPath12069)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2990,1349 3066,1398 3096,1312 "
      style="fill:#1a2a2e"
      id="polygon2848"
      clip-path="url(#clipPath12065)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2793,713 3088,582 2670,501 "
      style="fill:#c9f9fe"
      id="polygon2850"
      clip-path="url(#clipPath12061)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2662,60 2787,185 2841,187 "
+     style="fill:#b5defd"
+     id="polygon2852"
+     clip-path="url(#clipPath12057)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2936,984 3096,1012 3096,761 "
      style="fill:#fafcfc"
      id="polygon2854"
      clip-path="url(#clipPath12053)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2701,1969 2548,2004 2802,2004 "
+     style="fill:#090b1b"
+     id="polygon2856"
+     clip-path="url(#clipPath12049)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2803,1767 2701,1969 2802,2004 "
+     style="fill:#081025"
+     id="polygon2858"
+     clip-path="url(#clipPath12045)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2853,850 3096,761 3096,696 "
      style="fill:#e9fdfd"
      id="polygon2860"
      clip-path="url(#clipPath12041)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2803,1767 3096,1592 2764,1595 "
+     style="fill:#081020"
+     id="polygon2862"
+     clip-path="url(#clipPath12037)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3096,1312 3066,1398 3096,1452 "
      style="fill:#0e2d2f"
      id="polygon2864"
      clip-path="url(#clipPath12033)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="574,158 325,0 382,154 "
+     style="fill:#73bcfd"
+     id="polygon2866"
+     clip-path="url(#clipPath12029)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="424,346 440,231 268,251 "
+     style="fill:#f8fcfc"
+     id="polygon2868"
+     clip-path="url(#clipPath12025)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2803,1767 2802,2004 2846,1996 "
+     style="fill:#060711"
+     id="polygon2870"
+     clip-path="url(#clipPath12021)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2793,713 3096,696 3088,582 "
      style="fill:#d5fdfd"
      id="polygon2872"
      clip-path="url(#clipPath12017)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="262,462 160,424 170,495 "
+     style="fill:#f5fdfc"
+     id="polygon2874"
+     clip-path="url(#clipPath12013)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="245,657 262,462 170,495 "
      style="fill:#e0f4fd"
      id="polygon2876"
      clip-path="url(#clipPath12009)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,1025 0,1042 43,1056 "
      style="fill:#c5f5fc"
      id="polygon2878"
      clip-path="url(#clipPath12005)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="245,1630 168,1661 232,1783 "
      style="fill:#1e2a2e"
      id="polygon2880"
      clip-path="url(#clipPath12001)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="405,1676 245,1630 232,1783 "
+     style="fill:#1b2629"
+     id="polygon2882"
+     clip-path="url(#clipPath11997)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="274,1107 0,1280 418,1275 "
      style="fill:#233a39"
      id="polygon2884"
      clip-path="url(#clipPath11993)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="245,657 170,495 124,587 "
      style="fill:#d4effd"
      id="polygon2886"
      clip-path="url(#clipPath11989)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="274,1107 158,1068 0,1280 "
      style="fill:#24383a"
      id="polygon2888"
      clip-path="url(#clipPath11985)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2670,501 3096,457 2671,407 "
+     style="fill:#b4ecfd"
+     id="polygon2890"
+     clip-path="url(#clipPath11981)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2662,60 2841,187 2908,165 "
+     style="fill:#d7f0fd"
+     id="polygon2892"
+     clip-path="url(#clipPath11977)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="245,1630 152,1613 168,1661 "
      style="fill:#1c352f"
      id="polygon2894"
      clip-path="url(#clipPath11973)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2841,187 2954,239 2908,165 "
+     style="fill:#b3defd"
+     id="polygon2896"
+     clip-path="url(#clipPath11969)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2553,0 2662,60 3096,0 "
+     style="fill:#fafcfc"
+     id="polygon2898"
+     clip-path="url(#clipPath11965)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2803,1767 3067,1851 3096,1592 "
+     style="fill:#080c1a"
+     id="polygon2900"
+     clip-path="url(#clipPath11961)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="440,231 382,154 268,251 "
+     style="fill:#edf8fc"
+     id="polygon2902"
+     clip-path="url(#clipPath11957)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="124,587 170,495 0,612 "
      style="fill:#ecfbfd"
      id="polygon2904"
      clip-path="url(#clipPath11953)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,1025 173,1041 221,883 "
      style="fill:#c9f8fe"
      id="polygon2906"
      clip-path="url(#clipPath11949)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,1073 18,1095 32,1080 "
      style="fill:#54726d"
      id="polygon2908"
      clip-path="url(#clipPath11945)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="158,1068 43,1056 32,1080 "
      style="fill:#7aa7a2"
      id="polygon2910"
      clip-path="url(#clipPath11941)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="424,346 268,251 244,266 "
+     style="fill:#f5fcfc"
+     id="polygon2912"
+     clip-path="url(#clipPath11937)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="268,251 260,217 244,266 "
+     style="fill:#cee9fc"
+     id="polygon2914"
+     clip-path="url(#clipPath11933)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="262,462 178,302 160,424 "
+     style="fill:#fcfcfc"
+     id="polygon2916"
+     clip-path="url(#clipPath11929)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2670,501 3088,582 3096,457 "
+     style="fill:#bdf2fd"
+     id="polygon2918"
+     clip-path="url(#clipPath11925)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2908,165 2954,239 3010,178 "
      style="fill:#c5e7fd"
      id="polygon2920"
      clip-path="url(#clipPath11921)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3088,582 3096,696 3096,457 "
      style="fill:#c6f7fe"
      id="polygon2922"
      clip-path="url(#clipPath11917)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="268,251 382,154 260,217 "
+     style="fill:#c4e4fd"
+     id="polygon2924"
+     clip-path="url(#clipPath11913)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="262,462 244,266 178,302 "
+     style="fill:#fcfcfc"
+     id="polygon2926"
+     clip-path="url(#clipPath11909)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="43,1056 0,1073 32,1080 "
      style="fill:#83aba5"
      id="polygon2928"
      clip-path="url(#clipPath11905)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="158,1068 32,1080 18,1095 "
      style="fill:#4c6a65"
      id="polygon2930"
      clip-path="url(#clipPath11901)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="43,1056 0,1042 0,1073 "
      style="fill:#84bbc6"
      id="polygon2932"
      clip-path="url(#clipPath11897)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="158,1068 18,1095 0,1122 "
      style="fill:#334547"
      id="polygon2934"
      clip-path="url(#clipPath11893)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,1025 221,883 0,826 "
      style="fill:#c5f2fd"
      id="polygon2936"
      clip-path="url(#clipPath11889)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,826 221,883 213,730 "
      style="fill:#c7f1fd"
      id="polygon2938"
      clip-path="url(#clipPath11885)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,612 0,826 213,730 "
      style="fill:#f7fcfc"
      id="polygon2940"
      clip-path="url(#clipPath11881)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="18,1095 0,1073 0,1122 "
      style="fill:#344546"
      id="polygon2942"
      clip-path="url(#clipPath11877)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="244,266 173,230 178,302 "
      style="fill:#f5fdfc"
      id="polygon2944"
      clip-path="url(#clipPath11873)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="124,587 0,612 213,730 "
      style="fill:#c9edfd"
      id="polygon2946"
      clip-path="url(#clipPath11869)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="158,1068 0,1122 0,1280 "
      style="fill:#24373a"
      id="polygon2948"
      clip-path="url(#clipPath11865)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="168,1661 152,1613 0,1763 "
      style="fill:#1b2d2d"
      id="polygon2950"
      clip-path="url(#clipPath11861)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="160,424 0,612 170,495 "
      style="fill:#f6fdfd"
      id="polygon2952"
      clip-path="url(#clipPath11857)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="418,1275 0,1280 0,1371 "
      style="fill:#1d2d35"
      id="polygon2954"
      clip-path="url(#clipPath11853)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="232,1783 67,2004 251,2004 "
+     style="fill:#181f24"
+     id="polygon2956"
+     clip-path="url(#clipPath11849)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2954,239 3096,216 3010,178 "
      style="fill:#a3d6fd"
      id="polygon2958"
      clip-path="url(#clipPath11845)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2662,60 2908,165 3096,0 "
+     style="fill:#f9fcfc"
+     id="polygon2960"
+     clip-path="url(#clipPath11841)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2803,1767 2846,1996 3067,1851 "
+     style="fill:#050611"
+     id="polygon2962"
+     clip-path="url(#clipPath11837)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="428,1479 0,1371 0,1406 "
+     style="fill:#252c32"
+     id="polygon2964"
+     clip-path="url(#clipPath11833)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="168,1661 0,1763 232,1783 "
      style="fill:#1c2428"
      id="polygon2966"
      clip-path="url(#clipPath11829)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="447,1877 232,1783 251,2004 "
+     style="fill:#192025"
+     id="polygon2968"
+     clip-path="url(#clipPath11825)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="244,266 260,217 173,230 "
+     style="fill:#d1eafd"
+     id="polygon2970"
+     clip-path="url(#clipPath11821)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="160,424 136,233 0,612 "
      style="fill:#f9fdfc"
      id="polygon2972"
      clip-path="url(#clipPath11817)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="260,217 214,133 173,230 "
+     style="fill:#c5e1fd"
+     id="polygon2974"
+     clip-path="url(#clipPath11813)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="382,154 269,63 260,217 "
+     style="fill:#8ec6fd"
+     id="polygon2976"
+     clip-path="url(#clipPath11809)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="574,158 769,0 325,0 "
+     style="fill:#6eb9fd"
+     id="polygon2978"
+     clip-path="url(#clipPath11805)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="382,154 325,0 269,63 "
+     style="fill:#85bffd"
+     id="polygon2980"
+     clip-path="url(#clipPath11801)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="178,302 136,233 160,424 "
      style="fill:#fcfcfc"
      id="polygon2982"
      clip-path="url(#clipPath11797)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="260,217 269,63 214,133 "
+     style="fill:#a7d0fd"
+     id="polygon2984"
+     clip-path="url(#clipPath11793)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="178,302 173,230 136,233 "
      style="fill:#f9fdfc"
      id="polygon2986"
      clip-path="url(#clipPath11789)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="173,230 119,110 136,233 "
      style="fill:#f2fafc"
      id="polygon2988"
      clip-path="url(#clipPath11785)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3067,1851 3096,1952 3096,1900 "
      style="fill:#030207"
      id="polygon2990"
      clip-path="url(#clipPath11781)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3096,1592 3067,1851 3096,1900 "
      style="fill:#080a15"
      id="polygon2992"
      clip-path="url(#clipPath11777)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2954,239 3096,457 3096,216 "
      style="fill:#a0dafd"
      id="polygon2994"
      clip-path="url(#clipPath11773)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2846,1996 3096,2004 3096,1952 "
+     style="fill:#05040c"
+     id="polygon2996"
+     clip-path="url(#clipPath11769)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="3067,1851 2846,1996 3096,1952 "
+     style="fill:#05050e"
+     id="polygon2998"
+     clip-path="url(#clipPath11765)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3010,178 3096,216 3096,144 "
      style="fill:#c5e4fd"
      id="polygon3000"
      clip-path="url(#clipPath11761)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="2908,165 3010,178 3096,0 "
      style="fill:#f5fcfc"
      id="polygon3002"
      clip-path="url(#clipPath11757)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="2846,1996 2802,2004 3096,2004 "
+     style="fill:#080713"
+     id="polygon3004"
+     clip-path="url(#clipPath11753)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="152,1613 0,1406 0,1763 "
      style="fill:#1d2a2c"
      id="polygon3006"
      clip-path="url(#clipPath11749)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="214,133 190,0 119,110 "
      style="fill:#edf8fd"
      id="polygon3008"
      clip-path="url(#clipPath11745)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="173,230 214,133 119,110 "
      style="fill:#ddf0fd"
      id="polygon3010"
      clip-path="url(#clipPath11741)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="0,612 136,233 0,0 "
      style="fill:#fafdfc"
      id="polygon3012"
      clip-path="url(#clipPath11737)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="269,63 190,0 214,133 "
+     style="fill:#cce3fd"
+     id="polygon3014"
+     clip-path="url(#clipPath11733)"
+     transform="translate(-245.66931,-592.01623)" />
+  <polygon
+     points="269,63 325,0 190,0 "
+     style="fill:#a2cbfc"
+     id="polygon3016"
+     clip-path="url(#clipPath11729)"
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="232,1783 0,1763 67,2004 "
      style="fill:#191e24"
      id="polygon3018"
      clip-path="url(#clipPath11725)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="3010,178 3096,144 3096,0 "
      style="fill:#f4fbfd"
      id="polygon3020"
      clip-path="url(#clipPath11721)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="119,110 190,0 79,0 "
      style="fill:#f6fdfc"
      id="polygon3022"
      clip-path="url(#clipPath11717)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="136,233 119,110 0,0 "
      style="fill:#f2fbfd"
      id="polygon3024"
      clip-path="url(#clipPath11713)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="67,2004 0,1763 0,2004 "
      style="fill:#171a20"
      id="polygon3026"
      clip-path="url(#clipPath11709)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
   <polygon
      points="119,110 79,0 0,0 "
      style="fill:#f9fefc"
      id="polygon3028"
      clip-path="url(#clipPath11705)"
-     transform="translate(-245.66931,-346)" />
+     transform="translate(-245.66931,-592.01623)" />
 </svg>

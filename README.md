@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="./poike.svg"/>
   <h1>Poike</h1>
+  <img src="./poike.svg"/>
   <h2>A work in progress comprehensible Vulkan framework</h2>
   <h1></h1>
   <div>
