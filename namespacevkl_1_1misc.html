@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>vkl::misc namespace | poike</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i%7CSource+Code+Pro:400,400i,600" />
+  <link rel="stylesheet" href="m-dark+documentation.compiled.css" />
+  <link rel="icon" href="favicon-dark.png" type="image/png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#22272e" />
+</head>
+<body>
+<header><nav id="navigation">
+  <div class="m-container">
+    <div class="m-row">
+      <a href="index.html" id="m-navbar-brand" class="m-col-t-8 m-col-m-none m-left-m">poike</a>
+      <div class="m-col-t-4 m-hide-m m-text-right m-nopadr">
+        <a href="#search" class="m-doc-search-icon" title="Search" onclick="return showSearch()"><svg style="height: 0.9rem;" viewBox="0 0 16 16">
+          <path id="m-doc-search-icon-path" d="m6 0c-3.31 0-6 2.69-6 6 0 3.31 2.69 6 6 6 1.49 0 2.85-0.541 3.89-1.44-0.0164 0.338 0.147 0.759 0.5 1.15l3.22 3.79c0.552 0.614 1.45 0.665 2 0.115 0.55-0.55 0.499-1.45-0.115-2l-3.79-3.22c-0.392-0.353-0.812-0.515-1.15-0.5 0.895-1.05 1.44-2.41 1.44-3.89 0-3.31-2.69-6-6-6zm0 1.56a4.44 4.44 0 0 1 4.44 4.44 4.44 4.44 0 0 1-4.44 4.44 4.44 4.44 0 0 1-4.44-4.44 4.44 4.44 0 0 1 4.44-4.44z"/>
+        </svg></a>
+        <a id="m-navbar-show" href="#navigation" title="Show navigation"></a>
+        <a id="m-navbar-hide" href="#" title="Hide navigation"></a>
+      </div>
+      <div id="m-navbar-collapse" class="m-col-t-12 m-show-m m-col-m-none m-right-m">
+        <div class="m-row">
+          <ol class="m-col-t-6 m-col-m-none">
+            <li><a href="namespaces.html">Namespaces</a></li>
+          </ol>
+          <ol class="m-col-t-6 m-col-m-none" start="2">
+            <li><a href="annotated.html">Classes</a></li>
+            <li><a href="files.html">Files</a></li>
+            <li class="m-show-m"><a href="#search" class="m-doc-search-icon" title="Search" onclick="return showSearch()"><svg style="height: 0.9rem;" viewBox="0 0 16 16">
+              <use href="#m-doc-search-icon-path" />
+            </svg></a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav></header>
+<main><article>
+  <div class="m-container m-container-inflatable">
+    <div class="m-row">
+      <div class="m-col-l-10 m-push-l-1">
+        <h1>
+          <span class="m-breadcrumb"><a href="namespacevkl.html">vkl</a>::<wbr/></span>misc <span class="m-thin">namespace</span>
+        </h1>
+        <p>Minimal instruction set computer.</p>
+        <div class="m-block m-default">
+          <h3>Contents</h3>
+          <ul>
+            <li>
+              Reference
+              <ul>
+                <li><a href="#func-members">Functions</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+<p>Encapsulates minimal inline functions to simplify creation of vulkan structure.</p>
+        <section id="func-members">
+          <h2><a href="#func-members">Functions</a></h2>
+          <dl class="m-doc">
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a3dc37da5c728502f80f50b9635361586" class="m-doc">descriptorPoolSize</a>(</span><span class="m-doc-wrap">VkDescriptorType type,
+              uint32_t descriptorCount) -&gt; VkDescriptorPoolSize</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a2c57e2babcbf1a01c526a8a24c109a4a" class="m-doc">descriptorPoolCreateInfo</a>(</span><span class="m-doc-wrap">const std::vector&lt;VkDescriptorPoolSize&gt;&amp; poolSizes,
+              uint32_t maxSets) -&gt; VkDescriptorPoolCreateInfo</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a2863bbd90b3927bb71c6f78ac80b0d03" class="m-doc">descriptorSetAllocateInfo</a>(</span><span class="m-doc-wrap">VkDescriptorPool descriptorPool,
+              const VkDescriptorSetLayout* pSetLayouts,
+              uint32_t descriptorSetCount) -&gt; VkDescriptorSetAllocateInfo</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#aee1451c0ef4ed68ba5074365b74a8903" class="m-doc">writeDescriptorSet</a>(</span><span class="m-doc-wrap">VkDescriptorSet dstSet,
+              VkDescriptorType type,
+              uint32_t binding,
+              const VkDescriptorBufferInfo* bufferInfo,
+              uint32_t descriptorCount = 1) -&gt; VkWriteDescriptorSet</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a44f9845e9c0c650ddc0b9ad6f78af0b1" class="m-doc">writeDescriptorSet</a>(</span><span class="m-doc-wrap">VkDescriptorSet dstSet,
+              VkDescriptorType type,
+              uint32_t binding,
+              const VkDescriptorImageInfo* imageInfo,
+              uint32_t descriptorCount = 1) -&gt; VkWriteDescriptorSet</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#ab3e0f4cce854ab39a78b4b9aab4561f6" class="m-doc">descriptorSetLayoutBinding</a>(</span><span class="m-doc-wrap">VkDescriptorType type,
+              VkShaderStageFlags stageFlags,
+              uint32_t binding,
+              uint32_t descriptorCount = 1) -&gt; VkDescriptorSetLayoutBinding</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a3758102c68a6db4ad0c1a5cc37c25b54" class="m-doc">descriptorSetLayoutCreateInfo</a>(</span><span class="m-doc-wrap">const std::vector&lt;VkDescriptorSetLayoutBinding&gt;&amp; bindings) -&gt; VkDescriptorSetLayoutCreateInfo</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#aea9e53fa235da9affd6a565301f1dafd" class="m-doc">findMemoryType</a>(</span><span class="m-doc-wrap">VkPhysicalDevice physicalDevice,
+              uint32_t typeFilter,
+              VkMemoryPropertyFlags properties) -&gt; uint32_t</span>
+            </dt>
+            <dd>Get the index of a memory type that has all the requested property bits set.</dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#af22b7f73f6cda11a7881bb8cec3793fe" class="m-doc">formatIsFilterable</a>(</span><span class="m-doc-wrap">VkPhysicalDevice physicalDevice,
+              VkFormat format,
+              VkImageTiling tiling,
+              VkFormatFeatureFlags features) -&gt; VkBool32</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a505a2ff15d2ce146b67b9378e085b846" class="m-doc">findSupportedFormat</a>(</span><span class="m-doc-wrap">VkPhysicalDevice physicalDevice,
+              const std::vector&lt;VkFormat&gt;&amp; candidates,
+              VkImageTiling tiling,
+              VkFormatFeatureFlags features) -&gt; VkFormat</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a5df863ea94f4bf8bc674d646d239987d" class="m-doc">findDepthFormat</a>(</span><span class="m-doc-wrap">VkPhysicalDevice physicalDevice) -&gt; VkFormat</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#ab81340567c706ec96975bc5a3473ebbb" class="m-doc">pipelineShaderStageCreateInfo</a>(</span><span class="m-doc-wrap">const VkShaderModule&amp; shaderModule,
+              VkShaderStageFlagBits stage) -&gt; VkPipelineShaderStageCreateInfo</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a93ef4b0ce4194ccfa070c76f5691aadf" class="m-doc">pipelineDynamicStateCreateInfo</a>(</span><span class="m-doc-wrap">const std::vector&lt;VkDynamicState&gt;&amp; pDynamicStates,
+              VkPipelineDynamicStateCreateFlags flags = 0) -&gt; VkPipelineDynamicStateCreateInfo</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a462570c302ba6dc05a5dcdbc1816be27" class="m-doc">specializationMapEntry</a>(</span><span class="m-doc-wrap">uint32_t constantID,
+              uint32_t offset,
+              size_t size) -&gt; VkSpecializationMapEntry</span>
+            </dt>
+            <dd><span></span></dd>
+            <dt>
+              <span class="m-doc-wrap-bumper">auto <a href="#a78705b1a9db6b89e71326352cf260145" class="m-doc">specializationInfo</a>(</span><span class="m-doc-wrap">uint32_t mapEntryCount,
+              const VkSpecializationMapEntry* mapEntries,
+              size_t dataSize,
+              const void* data) -&gt; VkSpecializationInfo</span>
+            </dt>
+            <dd><span></span></dd>
+          </dl>
+        </section>
+        <section>
+          <h2>Function documentation</h2>
+          <section class="m-doc-details" id="a3dc37da5c728502f80f50b9635361586"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkDescriptorPoolSize vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a3dc37da5c728502f80f50b9635361586" class="m-doc-self">descriptorPoolSize</a>(</span><span class="m-doc-wrap">VkDescriptorType type,
+              uint32_t descriptorCount)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2DescriptorPool_8hpp.html">&lt;poike/misc/DescriptorPool.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a2c57e2babcbf1a01c526a8a24c109a4a"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkDescriptorPoolCreateInfo vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a2c57e2babcbf1a01c526a8a24c109a4a" class="m-doc-self">descriptorPoolCreateInfo</a>(</span><span class="m-doc-wrap">const std::vector&lt;VkDescriptorPoolSize&gt;&amp; poolSizes,
+              uint32_t maxSets)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2DescriptorPool_8hpp.html">&lt;poike/misc/DescriptorPool.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a2863bbd90b3927bb71c6f78ac80b0d03"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkDescriptorSetAllocateInfo vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a2863bbd90b3927bb71c6f78ac80b0d03" class="m-doc-self">descriptorSetAllocateInfo</a>(</span><span class="m-doc-wrap">VkDescriptorPool descriptorPool,
+              const VkDescriptorSetLayout* pSetLayouts,
+              uint32_t descriptorSetCount)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="DescriptorSet_8hpp.html">&lt;poike/misc/DescriptorSet.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="aee1451c0ef4ed68ba5074365b74a8903"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkWriteDescriptorSet vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#aee1451c0ef4ed68ba5074365b74a8903" class="m-doc-self">writeDescriptorSet</a>(</span><span class="m-doc-wrap">VkDescriptorSet dstSet,
+              VkDescriptorType type,
+              uint32_t binding,
+              const VkDescriptorBufferInfo* bufferInfo,
+              uint32_t descriptorCount = 1)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="DescriptorSet_8hpp.html">&lt;poike/misc/DescriptorSet.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a44f9845e9c0c650ddc0b9ad6f78af0b1"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkWriteDescriptorSet vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a44f9845e9c0c650ddc0b9ad6f78af0b1" class="m-doc-self">writeDescriptorSet</a>(</span><span class="m-doc-wrap">VkDescriptorSet dstSet,
+              VkDescriptorType type,
+              uint32_t binding,
+              const VkDescriptorImageInfo* imageInfo,
+              uint32_t descriptorCount = 1)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="DescriptorSet_8hpp.html">&lt;poike/misc/DescriptorSet.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="ab3e0f4cce854ab39a78b4b9aab4561f6"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkDescriptorSetLayoutBinding vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#ab3e0f4cce854ab39a78b4b9aab4561f6" class="m-doc-self">descriptorSetLayoutBinding</a>(</span><span class="m-doc-wrap">VkDescriptorType type,
+              VkShaderStageFlags stageFlags,
+              uint32_t binding,
+              uint32_t descriptorCount = 1)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2DescriptorSetLayout_8hpp.html">&lt;poike/misc/DescriptorSetLayout.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a3758102c68a6db4ad0c1a5cc37c25b54"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkDescriptorSetLayoutCreateInfo vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a3758102c68a6db4ad0c1a5cc37c25b54" class="m-doc-self">descriptorSetLayoutCreateInfo</a>(</span><span class="m-doc-wrap">const std::vector&lt;VkDescriptorSetLayoutBinding&gt;&amp; bindings)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2DescriptorSetLayout_8hpp.html">&lt;poike/misc/DescriptorSetLayout.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="aea9e53fa235da9affd6a565301f1dafd"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">uint32_t vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#aea9e53fa235da9affd6a565301f1dafd" class="m-doc-self">findMemoryType</a>(</span><span class="m-doc-wrap">VkPhysicalDevice physicalDevice,
+              uint32_t typeFilter,
+              VkMemoryPropertyFlags properties)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2Device_8hpp.html">&lt;poike/misc/Device.hpp&gt;</a></div>
+            </h3>
+            <p>Get the index of a memory type that has all the requested property bits set.</p>
+            <table class="m-table m-fullwidth m-flat">
+              <thead>
+                <tr><th colspan="2">Parameters</th></tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="width: 1%">physicalDevice</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>typeFilter</td>
+                  <td>Indique les types de mémoire que l&#x27;on veut trouver (chaque n-ième correspond a un type de mémoire)</td>
+                </tr>
+                <tr>
+                  <td>properties</td>
+                  <td>Bitmask spécifiant les propriétés d&#x27;un type de mémoire</td>
+                </tr>
+              </tbody>
+              <thead>
+                <tr>
+                  <th>Returns</th>
+                  <td>Indice de la mémoire</td>
+                </tr>
+              </thead>
+              <thead>
+                <tr><th colspan="2">Exceptions</th></tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Throws</td>
+                  <td>an exception if no memory type could be found that supports the requested properties</td>
+                </tr>
+              </tbody>
+            </table>
+          </div></section>
+          <section class="m-doc-details" id="af22b7f73f6cda11a7881bb8cec3793fe"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkBool32 vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#af22b7f73f6cda11a7881bb8cec3793fe" class="m-doc-self">formatIsFilterable</a>(</span><span class="m-doc-wrap">VkPhysicalDevice physicalDevice,
+              VkFormat format,
+              VkImageTiling tiling,
+              VkFormatFeatureFlags features)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2Device_8hpp.html">&lt;poike/misc/Device.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a505a2ff15d2ce146b67b9378e085b846"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkFormat vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a505a2ff15d2ce146b67b9378e085b846" class="m-doc-self">findSupportedFormat</a>(</span><span class="m-doc-wrap">VkPhysicalDevice physicalDevice,
+              const std::vector&lt;VkFormat&gt;&amp; candidates,
+              VkImageTiling tiling,
+              VkFormatFeatureFlags features)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2Device_8hpp.html">&lt;poike/misc/Device.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a5df863ea94f4bf8bc674d646d239987d"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkFormat vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a5df863ea94f4bf8bc674d646d239987d" class="m-doc-self">findDepthFormat</a>(</span><span class="m-doc-wrap">VkPhysicalDevice physicalDevice)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2Device_8hpp.html">&lt;poike/misc/Device.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="ab81340567c706ec96975bc5a3473ebbb"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkPipelineShaderStageCreateInfo vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#ab81340567c706ec96975bc5a3473ebbb" class="m-doc-self">pipelineShaderStageCreateInfo</a>(</span><span class="m-doc-wrap">const VkShaderModule&amp; shaderModule,
+              VkShaderStageFlagBits stage)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2GraphicsPipeline_8hpp.html">&lt;poike/misc/GraphicsPipeline.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a93ef4b0ce4194ccfa070c76f5691aadf"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkPipelineDynamicStateCreateInfo vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a93ef4b0ce4194ccfa070c76f5691aadf" class="m-doc-self">pipelineDynamicStateCreateInfo</a>(</span><span class="m-doc-wrap">const std::vector&lt;VkDynamicState&gt;&amp; pDynamicStates,
+              VkPipelineDynamicStateCreateFlags flags = 0)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="misc_2GraphicsPipeline_8hpp.html">&lt;poike/misc/GraphicsPipeline.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a462570c302ba6dc05a5dcdbc1816be27"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkSpecializationMapEntry vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a462570c302ba6dc05a5dcdbc1816be27" class="m-doc-self">specializationMapEntry</a>(</span><span class="m-doc-wrap">uint32_t constantID,
+              uint32_t offset,
+              size_t size)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="Specialization_8hpp.html">&lt;poike/misc/Specialization.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+          <section class="m-doc-details" id="a78705b1a9db6b89e71326352cf260145"><div>
+            <h3>
+              <span class="m-doc-wrap-bumper">VkSpecializationInfo vkl::<wbr />misc::<wbr /></span><span class="m-doc-wrap"><span class="m-doc-wrap-bumper"><a href="#a78705b1a9db6b89e71326352cf260145" class="m-doc-self">specializationInfo</a>(</span><span class="m-doc-wrap">uint32_t mapEntryCount,
+              const VkSpecializationMapEntry* mapEntries,
+              size_t dataSize,
+              const void* data)</span></span>
+              <div class="m-doc-include m-code m-inverted m-text-right"><span class="cp">#include</span> <a class="cpf" href="Specialization_8hpp.html">&lt;poike/misc/Specialization.hpp&gt;</a></div>
+            </h3>
+            <p><span></span></p>
+          </div></section>
+        </section>
+      </div>
+    </div>
+  </div>
+</article></main>
+<div class="m-doc-search" id="search">
+  <a href="#!" onclick="return hideSearch()"></a>
+  <div class="m-container">
+    <div class="m-row">
+      <div class="m-col-m-8 m-push-m-2">
+        <div class="m-doc-search-header m-text m-small">
+          <div><span class="m-label m-default">Tab</span> / <span class="m-label m-default">T</span> to search, <span class="m-label m-default">Esc</span> to close</div>
+          <div id="search-symbolcount">&hellip;</div>
+        </div>
+        <div class="m-doc-search-content">
+          <form>
+            <input type="search" name="q" id="search-input" placeholder="Loading &hellip;" disabled="disabled" autofocus="autofocus" autocomplete="off" spellcheck="false" />
+          </form>
+          <noscript class="m-text m-danger m-text-center">Unlike everything else in the docs, the search functionality <em>requires</em> JavaScript.</noscript>
+          <div id="search-help" class="m-text m-dim m-text-center">
+            <p class="m-noindent">Search for symbols, directories, files, pages or
+            modules. You can omit any prefix from the symbol or file path; adding a
+            <code>:</code> or <code>/</code> suffix lists all members of given symbol or
+            directory.</p>
+            <p class="m-noindent">Use <span class="m-label m-dim">&darr;</span>
+            / <span class="m-label m-dim">&uarr;</span> to navigate through the list,
+            <span class="m-label m-dim">Enter</span> to go.
+            <span class="m-label m-dim">Tab</span> autocompletes common prefix, you can
+            copy a link to the result using <span class="m-label m-dim">⌘</span>
+            <span class="m-label m-dim">L</span> while <span class="m-label m-dim">⌘</span>
+            <span class="m-label m-dim">M</span> produces a Markdown link.</p>
+          </div>
+          <div id="search-notfound" class="m-text m-warning m-text-center">Sorry, nothing was found.</div>
+          <ul id="search-results"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="search-v1.js"></script>
+<script src="searchdata-v1.js" async="async"></script>
+<footer><nav>
+  <div class="m-container">
+    <div class="m-row">
+      <div class="m-col-l-10 m-push-l-1">
+        <p>poike. Created with <a href="https://doxygen.org/">Doxygen</a> 1.8.17 and <a href="https://mcss.mosra.cz/">m.css</a>.</p>
+      </div>
+    </div>
+  </div>
+</nav></footer>
+</body>
+</html>
