@@ -13,8 +13,8 @@ include(cmake/tools/warnings.cmake)
 
 project(
     poike
-    DESCRIPTION "A Vulkan command-line tool to visualize a 3D model"
-    HOMEPAGE_URL "https://github.com/florianvazelle/vk3DLoader"
+    DESCRIPTION "A Vulkan framework"
+    HOMEPAGE_URL "https://github.com/florianvazelle/poike"
     LANGUAGES CXX
 )
 
@@ -22,7 +22,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 message(VERBOSE "*")
 message(VERBOSE "* ${PROJECT_NAME} v${PROJECT_VERSION} (${CMAKE_BUILD_TYPE})")
-message(VERBOSE "* Copyright (c) 2017-2021 Florian Vazelle <ponythugflorian@gmail.com>")
+message(VERBOSE "* Copyright (c) 2020-2021 Florian Vazelle <ponythugflorian@gmail.com>")
 message(VERBOSE "*")
 
 include(cmake/tools/libcpp.cmake)
