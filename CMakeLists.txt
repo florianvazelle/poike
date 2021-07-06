@@ -48,7 +48,7 @@ include("./cmake/conan.cmake")
 conan_check(REQUIRED)
 conan_cmake_run(
     CONANFILE
-    ${CMAKE_CURRENT_SOURCE_DIR}/conanfile.txt
+    conanfile.txt
     BASIC_SETUP
     CONAN_COMMAND
     ${CONAN_CMD}
