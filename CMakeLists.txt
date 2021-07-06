@@ -68,7 +68,18 @@ add_library(${PROJECT_NAME} SHARED ${POIKE_PROJECT_SOURCES} ${POIKE_PROJECT_HEAD
 target_include_directories(${PROJECT_NAME} PUBLIC ./include)
 target_include_directories(${PROJECT_NAME} PUBLIC ${CMAKE_CURRENT_BINARY_DIR}/external)
 
-target_link_libraries(${PROJECT_NAME} PUBLIC ${CONAN_LIBS} Vulkan::Vulkan)
+if(CONAN_TARGETS)
+    target_link_libraries(${PROJECT_NAME} ${CONAN_TARGETS} Vulkan::Vulkan)
+else()
+    target_link_libraries(${PROJECT_NAME} ${CONAN_LIBS} Vulkan::Vulkan)
+    foreach(_LIB ${CONAN_LIBS_RELEASE})
+        target_link_libraries(${PROJECT_NAME} optimized ${_LIB})
+    endforeach()
+    foreach(_LIB ${CONAN_LIBS_DEBUG})
+        target_link_libraries(${PROJECT_NAME} debug ${_LIB})
+    endforeach()
+endif()
+
 target_compile_definitions(${PROJECT_NAME} PUBLIC IMGUI_IMPL_VULKAN)
 
 target_set_warnings(
