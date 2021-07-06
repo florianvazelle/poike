@@ -12,11 +12,11 @@
 #include <poike/core/VulkanHeader.hpp>  // for VkSurfaceFormatKHR, VkPresentModeKHR
 #include <poike/meta/NoCopy.hpp>       // for NoCopy
 #include <vector>                // for vector
-namespace vkl { class Device; }
-namespace vkl { class Window; }
+namespace poike { class Device; }
+namespace poike { class Window; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
   struct SwapChainSupportDetails {
     VkSurfaceCapabilitiesKHR capabilities;
     std::vector<VkSurfaceFormatKHR> formats;
@@ -73,6 +73,6 @@ namespace vkl {
     static VkSurfaceFormatKHR ChooseSwapSurfaceFormat(const std::vector<VkSurfaceFormatKHR>& availableFormats);
     static VkPresentModeKHR ChooseSwapPresentMode(const std::vector<VkPresentModeKHR>& availablePresentModes);
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // SWAPCHAIN_HPP

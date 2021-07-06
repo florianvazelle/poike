@@ -18,7 +18,7 @@
 #include <cstring>
 #include <functional>
 
-namespace vkl {
+namespace poike {
 
   /**
    * @brief A templating class to define a list of buffer
@@ -79,6 +79,6 @@ namespace vkl {
       }
     }
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // VERTEX_HPP

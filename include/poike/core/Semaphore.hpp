@@ -4,10 +4,10 @@
 // clang-format off
 #include <poike/core/VulkanHeader.hpp>  // for VkSemaphore, VkSemaphore_T
 #include <poike/meta/NoCopy.hpp>       // for NoCopy
-namespace vkl { class Device; }
+namespace poike { class Device; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   class Semaphore : public NoCopy {
   public:
@@ -23,6 +23,6 @@ namespace vkl {
     const Device& m_device;
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // SEMAPHORE_HPP

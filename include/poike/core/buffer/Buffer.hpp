@@ -14,7 +14,7 @@
 #include <poike/core/Device.hpp>
 #include <poike/core/buffer/StorageBuffer.hpp>
 
-namespace vkl {
+namespace poike {
 
   /**
    * @brief A templating class to define buffer
@@ -65,6 +65,6 @@ namespace vkl {
     std::vector<T> m_bufferData;  // normaly is struct type like Depth, MVP, Vertex, Material ...
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // BUFFER_HPP

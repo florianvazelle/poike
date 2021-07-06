@@ -3,7 +3,7 @@
 #include <poike/core/VulkanHeader.hpp>
 #include <vector>
 
-namespace vkl {
+namespace poike {
 
   /**
    * @brief Minimal instruction set computer
@@ -33,4 +33,4 @@ namespace vkl {
 
   }  // namespace misc
 
-}  // namespace vkl
+}  // namespace poike

@@ -11,11 +11,11 @@
 #include <poike/meta/NoCopy.hpp>         // for NoCopy
 #include <poike/core/QueueFamily.hpp>  // for QueueFamilyIndices
 #include <vector>                  // for vector
-namespace vkl { class Instance; }
-namespace vkl { class Window; }
+namespace poike { class Instance; }
+namespace poike { class Window; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   /**
    * @brief  A class which allows to manage devices.
@@ -61,6 +61,6 @@ namespace vkl {
 
     static bool IsDeviceSuitable(const VkPhysicalDevice& device, const VkSurfaceKHR& surface);
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // DEVICE_HPP

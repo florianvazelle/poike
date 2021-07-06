@@ -4,7 +4,7 @@
 #include <imgui_impl_vulkan.h>        // for ImGui_ImplVulkan_RenderDrawData
 #include <poike/core/VulkanHeader.hpp>       // for VkCommandBuffer, VkCommandBuffer_T
 #include <poike/core/CommandBuffers.hpp>  // for CommandBuffers
-#include <poike/core/CommandPool.hpp>     // for CommandPool, vkl
+#include <poike/core/CommandPool.hpp>     // for CommandPool, poike
 #include <poike/core/DescriptorSets.hpp>  // for DescriptorSets
 #include <poike/core/Device.hpp>          // for Device
 #include <poike/core/RenderPass.hpp>      // for RenderPass, RenderPass
@@ -13,7 +13,7 @@
 #include <vector>                     // for vector
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 ImGuiCommandBuffers::ImGuiCommandBuffers(const Device& device,
                                          const RenderPass& renderPass,

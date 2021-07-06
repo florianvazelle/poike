@@ -2,10 +2,10 @@
 #include <poike/core/DescriptorPool.hpp>
 #include <stdexcept>               // for runtime_error
 #include <poike/core/Device.hpp>       // for Device
-#include <poike/core/QueueFamily.hpp>  // for vkl
+#include <poike/core/QueueFamily.hpp>  // for poike
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 DescriptorPool::DescriptorPool(const Device& device, const VkDescriptorPoolCreateInfo& poolInfo)
     : m_device(device), m_poolInfo(poolInfo) {

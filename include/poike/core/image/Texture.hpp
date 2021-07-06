@@ -12,7 +12,7 @@
 #define STB_IMAGE_STATIC
 #include <stb_image.h>
 
-namespace vkl {
+namespace poike {
 
   class Texture : public Image {
   public:
@@ -172,6 +172,6 @@ namespace vkl {
     }
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // TEXTURE_HPP

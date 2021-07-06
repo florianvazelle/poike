@@ -12,7 +12,7 @@
 #include <optional>              // for optional
 // clang-format on
 
-namespace vkl {
+namespace poike {
   struct QueueFamilyIndices {
     std::optional<uint32_t> graphicsFamily;  // Drawing command support
     std::optional<uint32_t> computeFamily;
@@ -32,6 +32,6 @@ namespace vkl {
 
     static QueueFamilyIndices FindQueueFamilies(const VkPhysicalDevice& device, const VkSurfaceKHR& surface);
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // QUEUEFAMILY_HPP

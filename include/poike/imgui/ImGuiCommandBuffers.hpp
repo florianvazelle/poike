@@ -4,14 +4,14 @@
 // clang-format off
 #include <stdint.h>                   // for uint32_t
 #include <poike/core/CommandBuffers.hpp>  // for CommandBuffers
-namespace vkl { class CommandPool; }
-namespace vkl { class Device; }
-namespace vkl { class GraphicsPipeline; }
-namespace vkl { class RenderPass; }
-namespace vkl { class SwapChain; }
+namespace poike { class CommandPool; }
+namespace poike { class Device; }
+namespace poike { class GraphicsPipeline; }
+namespace poike { class RenderPass; }
+namespace poike { class SwapChain; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   class ImGuiCommandBuffers : public CommandBuffersBase {
   public:
@@ -28,6 +28,6 @@ namespace vkl {
     void createCommandBuffers();
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // IMGUICOMMANDBUFFERS_HPP

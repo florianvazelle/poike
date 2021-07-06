@@ -10,7 +10,7 @@
 
 #include <poike/meta/NoCopy.hpp>
 
-namespace vkl {
+namespace poike {
 
   class Instance;
 
@@ -38,6 +38,6 @@ namespace vkl {
     const Instance& m_instance;
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // DEBUGUTILSMESSENGER_HPP

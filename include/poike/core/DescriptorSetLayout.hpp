@@ -9,10 +9,10 @@
 // clang-format off
 #include <poike/core/VulkanHeader.hpp>  // for VkDescriptorSetLayout, VkDescriptorS...
 #include <poike/meta/NoCopy.hpp>       // for NoCopy
-namespace vkl { class Device; }
+namespace poike { class Device; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   class DescriptorSetLayout : public NoCopy {
   public:
@@ -26,6 +26,6 @@ namespace vkl {
 
     const Device& m_device;
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // DESCRIPTORSETLAYOUT_HPP

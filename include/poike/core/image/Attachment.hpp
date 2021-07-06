@@ -4,7 +4,7 @@
 #include <poike/core/SwapChain.hpp>
 #include <poike/core/image/Image.hpp>
 
-namespace vkl {
+namespace poike {
 
   class Attachment : public Image {
   public:
@@ -103,6 +103,6 @@ namespace vkl {
     };
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // ATTACHMENT_HPP

@@ -11,16 +11,16 @@
 #include <poike/meta/NoCopy.hpp>       // for NoCopy
 #include <poike/core/image/Image.hpp>
 #include <vector>                // for vector
-namespace vkl { class DescriptorPool; }
-namespace vkl { class DescriptorSetLayout; }
-namespace vkl { class Device; }
-namespace vkl { class IBuffer; }
-namespace vkl { class RenderPass; }
-namespace vkl { class IUniformBuffers; }
-namespace vkl { class SwapChain; }
+namespace poike { class DescriptorPool; }
+namespace poike { class DescriptorSetLayout; }
+namespace poike { class Device; }
+namespace poike { class IBuffer; }
+namespace poike { class RenderPass; }
+namespace poike { class IUniformBuffers; }
+namespace poike { class SwapChain; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   class DescriptorSets : public NoCopy {
   public:
@@ -49,6 +49,6 @@ namespace vkl {
     void allocateDescriptorSets();
     virtual void createDescriptorSets() = 0;
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // DESCRIPTORSETLAYOUT_HPP

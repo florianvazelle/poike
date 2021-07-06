@@ -10,7 +10,7 @@
 #include <stdexcept>                       // for runtime_error
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 DescriptorSets::DescriptorSets(const Device& device,
                                const SwapChain& swapChain,

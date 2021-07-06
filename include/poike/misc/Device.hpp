@@ -4,7 +4,7 @@
 #include <stdexcept>
 #include <vector>
 
-namespace vkl {
+namespace poike {
 
   namespace misc {
 
@@ -82,4 +82,4 @@ namespace vkl {
 
   }  // namespace misc
 
-}  // namespace vkl
+}  // namespace poike

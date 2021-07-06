@@ -3,7 +3,7 @@
 #include <poike/core/VulkanHeader.hpp>
 #include <vector>
 
-namespace vkl {
+namespace poike {
 
   namespace misc {
 
@@ -51,4 +51,4 @@ namespace vkl {
 
   }  // namespace misc
 
-}  // namespace vkl
+}  // namespace poike

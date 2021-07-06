@@ -3,10 +3,10 @@
 #include <poike/core/Device.hpp>                 // for Device
 #include <poike/core/SwapChain.hpp>              // for SwapChain
 #include <stdexcept>                         // for runtime_error
-#include <poike/core/QueueFamily.hpp>            // for vkl
+#include <poike/core/QueueFamily.hpp>            // for poike
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 RenderPass::RenderPass(const Device& device, const SwapChain& swapChain)
     : m_renderPass(VK_NULL_HANDLE), m_device(device), m_swapChain(swapChain) {}

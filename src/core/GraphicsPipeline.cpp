@@ -1,12 +1,12 @@
 // clang-format off
 #include <poike/core/GraphicsPipeline.hpp>
 #include <poike/core/Device.hpp>     // for Device
-#include <poike/core/SwapChain.hpp>  // for vkl
+#include <poike/core/SwapChain.hpp>  // for poike
 #include <stdexcept>             // for runtime_error
 #include <iostream>
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 GraphicsPipeline::GraphicsPipeline(const Device& device,
                                    const SwapChain& swapChain,

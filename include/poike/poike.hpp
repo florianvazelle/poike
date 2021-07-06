@@ -1,4 +1,4 @@
-#pragma once 
+#pragma once
 
 #include <poike/core/Application.hpp>
 #include <poike/core/CommandBuffers.hpp>
@@ -17,18 +17,23 @@
 #include <poike/core/SyncObjects.hpp>
 #include <poike/core/VulkanHeader.hpp>
 #include <poike/core/Window.hpp>
+
 #include <poike/core/buffer/Buffer.hpp>
 #include <poike/core/buffer/IBuffer.hpp>
 #include <poike/core/buffer/StorageBuffer.hpp>
 #include <poike/core/buffer/UniformBuffers.hpp>
+
 #include <poike/core/image/Attachment.hpp>
 #include <poike/core/image/Image.hpp>
 #include <poike/core/image/Texture.hpp>
+
 #include <poike/imgui/ImGuiApp.hpp>
 #include <poike/imgui/ImGuiCommandBuffers.hpp>
 #include <poike/imgui/ImGuiRenderPass.hpp>
+
 #include <poike/meta/NoCopy.hpp>
 #include <poike/meta/NoMove.hpp>
+
 #include <poike/misc/DescriptorPool.hpp>
 #include <poike/misc/DescriptorSet.hpp>
 #include <poike/misc/DescriptorSetLayout.hpp>

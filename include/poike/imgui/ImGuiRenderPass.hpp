@@ -5,7 +5,7 @@
 #include <poike/core/VulkanHeader.hpp>
 #include <stdexcept>
 
-namespace vkl {
+namespace poike {
   class ImGuiRenderPass : public RenderPass {
   public:
     ImGuiRenderPass(const Device& device, const SwapChain& swapChain);
@@ -13,6 +13,6 @@ namespace vkl {
   private:
     void createRenderPass();
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // IMGUIRENDERPASS_HPP

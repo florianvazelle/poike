@@ -4,7 +4,7 @@
 #include <imgui_impl_glfw.h>                     // for ImGui_ImplGlfw_InitF...
 #include <imgui_impl_vulkan.h>                   // for ImGui_ImplVulkan_Cre...
 #include <poike/core/CommandBuffers.hpp>             // for CommandBuffers
-#include <poike/core/CommandPool.hpp>                // for vkl
+#include <poike/core/CommandPool.hpp>                // for poike
 #include <poike/core/Device.hpp>                     // for Device
 #include <poike/imgui/ImGuiCommandBuffers.hpp>  // for ImGuiCommandBuffers
 #include <poike/imgui/ImGuiRenderPass.hpp>      // for ImGuiRenderPass
@@ -17,7 +17,7 @@
 #include <vector>                                // for vector
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 ImGuiApp::ImGuiApp(const Instance& instance,
                    Window& window,

@@ -9,10 +9,10 @@
 // clang-format off
 #include <poike/core/VulkanHeader.hpp>  // for VkDescriptorPool, VkDescriptorPoolCr...
 #include <poike/meta/NoCopy.hpp>       // for NoCopy
-namespace vkl { class Device; }
+namespace poike { class Device; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   class DescriptorPool : public NoCopy {
   public:
@@ -32,6 +32,6 @@ namespace vkl {
 
     void createDescriptorPool();
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // DESCRIPTORPOOL_HPP

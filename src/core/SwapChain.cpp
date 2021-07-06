@@ -10,7 +10,7 @@
 #include <glm/ext/vector_int2.hpp>   // for ivec2
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 SwapChain::SwapChain(const Device& device, const Window& window)
     : m_swapChain(VK_NULL_HANDLE), m_oldSwapChain(VK_NULL_HANDLE), m_device(device), m_window(window) {

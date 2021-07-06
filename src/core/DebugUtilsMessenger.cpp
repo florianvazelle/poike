@@ -4,7 +4,7 @@
 #include <iostream>
 #include <stdexcept>
 
-using namespace vkl;
+using namespace poike;
 
 DebugUtilsMessenger::DebugUtilsMessenger(const Instance& instance, bool exitOnError)
     : m_debugMessenger(VK_NULL_HANDLE), m_exitOnError(exitOnError), m_instance(instance) {

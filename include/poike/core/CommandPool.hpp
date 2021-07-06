@@ -10,7 +10,7 @@
 #include <poike/core/VulkanHeader.hpp>
 #include <optional>
 
-namespace vkl {
+namespace poike {
   class Device;
 
   /**
@@ -32,6 +32,6 @@ namespace vkl {
 
     const Device& m_device;
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // COMMANDPOOL_HPP

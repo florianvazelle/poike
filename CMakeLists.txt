@@ -63,7 +63,7 @@ file(GLOB_RECURSE EXTERNALS "${CMAKE_CURRENT_BINARY_DIR}/external/*")
 
 # ---- Create library ----
 
-add_library(${PROJECT_NAME} OBJECT ${POIKE_PROJECT_SOURCES} ${POIKE_PROJECT_HEADERS} ${EXTERNALS})
+add_library(${PROJECT_NAME} SHARED ${POIKE_PROJECT_SOURCES} ${POIKE_PROJECT_HEADERS} ${EXTERNALS})
 
 target_include_directories(${PROJECT_NAME} PUBLIC ./include)
 target_include_directories(${PROJECT_NAME} PUBLIC ${CMAKE_CURRENT_BINARY_DIR}/external)

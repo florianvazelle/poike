@@ -5,7 +5,7 @@
 
 #include <poike/meta/NoCopy.hpp>
 
-namespace vkl {
+namespace poike {
 
   class IBuffer : public NoCopy {
   public:
@@ -25,6 +25,6 @@ namespace vkl {
     virtual const VkDescriptorBufferInfo& descriptor(int index) const = 0;
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // IBUFFER_HPP

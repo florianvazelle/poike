@@ -12,12 +12,12 @@
 #include <poike/meta/NoCopy.hpp>       // for NoCopy
 #include <poike/core/SwapChain.hpp>  // for SwapChain
 #include <vector>                // for vector
-namespace vkl { class DescriptorSetLayout; }
-namespace vkl { class Device; }
-namespace vkl { class RenderPass; }
+namespace poike { class DescriptorSetLayout; }
+namespace poike { class Device; }
+namespace poike { class RenderPass; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   class GraphicsPipeline : public NoCopy {
   public:
@@ -179,6 +179,6 @@ namespace vkl {
     VkShaderModule createShaderModule(const std::vector<unsigned char>& code);
     void deleteShaderModule(const std::vector<VkPipelineShaderStageCreateInfo>& shaderStages);
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // GRAPHICSPIPELINE_HPP

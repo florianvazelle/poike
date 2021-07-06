@@ -8,14 +8,14 @@
 #include <poike/core/CommandPool.hpp>                // for CommandPool
 #include <poike/imgui/ImGuiCommandBuffers.hpp>  // for ImGuiCommandBuffers
 #include <poike/imgui/ImGuiRenderPass.hpp>      // for ImGuiRenderPass
-namespace vkl { class Device; }
-namespace vkl { class GraphicsPipeline; }
-namespace vkl { class Instance; }
-namespace vkl { class SwapChain; }
-namespace vkl { class Window; }
+namespace poike { class Device; }
+namespace poike { class GraphicsPipeline; }
+namespace poike { class Instance; }
+namespace poike { class SwapChain; }
+namespace poike { class Window; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   class ImGuiApp {
   public:
@@ -47,6 +47,6 @@ namespace vkl {
 
     void createImGuiDescriptorPool();
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // IMGUIAPP_HPP

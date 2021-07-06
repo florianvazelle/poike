@@ -3,10 +3,10 @@
 #include <stddef.h>                // for size_t
 #include <poike/core/Device.hpp>       // for Device
 #include <stdexcept>               // for runtime_error
-#include <poike/core/QueueFamily.hpp>  // for vkl
+#include <poike/core/QueueFamily.hpp>  // for poike
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 SyncObjects::SyncObjects(const Device& device, uint32_t numImages, uint32_t maxFramesInFlight)
     : m_device(device),

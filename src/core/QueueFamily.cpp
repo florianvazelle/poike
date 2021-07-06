@@ -4,7 +4,7 @@
 #include <iostream>
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 QueueFamilyIndices QueueFamily::FindQueueFamilies(const VkPhysicalDevice& device, const VkSurfaceKHR& surface) {
   QueueFamilyIndices indices;

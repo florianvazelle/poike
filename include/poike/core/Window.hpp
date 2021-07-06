@@ -20,10 +20,10 @@
 #include <string>                    // for string
 #include <vector>                    // for vector
 #include <glm/glm.hpp>               // for ivec2, vec<>::operator[]
-namespace vkl { class Instance; }
+namespace poike { class Instance; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   class Instance;
 
@@ -38,9 +38,9 @@ namespace vkl {
     Window(android_app* androidApp,
            const glm::ivec2& dimensions,
            const std::string& title,
-           const vkl::Instance& instance);
+           const poike::Instance& instance);
 #else
-    Window(const glm::ivec2& dimensions, const std::string& title, const vkl::Instance& instance);
+    Window(const glm::ivec2& dimensions, const std::string& title, const poike::Instance& instance);
 #endif
     Window() = delete;
     ~Window();
@@ -81,7 +81,7 @@ namespace vkl {
     glm::ivec2 m_dimensions;
     std::string m_title;
 
-    const vkl::Instance& m_instance;
+    const poike::Instance& m_instance;
     VkSurfaceKHR m_surface;
 
     bool m_framebufferResized;
@@ -92,6 +92,6 @@ namespace vkl {
 #endif
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // WINDOW_HPP

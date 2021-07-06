@@ -11,10 +11,10 @@
 #include <poike/core/VulkanHeader.hpp>  // for VkFence, VkSemaphore
 #include <poike/meta/NoCopy.hpp>       // for NoCopy
 #include <vector>                // for vector
-namespace vkl { class Device; }
+namespace poike { class Device; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
   class Device;
 
   /**
@@ -48,6 +48,6 @@ namespace vkl {
     std::vector<VkFence> m_imagesInFlight;
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // SYNCOBJECTS_HPP

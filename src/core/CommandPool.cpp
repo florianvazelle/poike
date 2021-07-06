@@ -3,7 +3,7 @@
 
 #include <stdexcept>
 
-using namespace vkl;
+using namespace poike;
 
 CommandPool::CommandPool(const Device& device,
                          const VkCommandPoolCreateFlags& flags,

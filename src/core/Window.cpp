@@ -6,7 +6,7 @@
 #include <glm/detail/type_vec2.hpp>  // for vec<>::(anonymous)
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 #ifdef __ANDROID__
 Window::Window(android_app* androidApp,

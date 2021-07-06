@@ -9,7 +9,7 @@
 
 #define DEFAULT_FENCE_TIMEOUT 100000000000
 
-using namespace vkl;
+using namespace poike;
 
 CommandBuffersBase::CommandBuffersBase(const Device& device,
                                        const RenderPass& renderPass,

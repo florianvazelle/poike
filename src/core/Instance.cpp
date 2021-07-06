@@ -7,7 +7,7 @@
 #include <stdexcept>                       // for runtime_error
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 const std::vector<const char*> Instance::ValidationLayers = {"VK_LAYER_KHRONOS_validation"};
 const std::vector<const char*> Instance::DeviceExtensions = {VK_KHR_SWAPCHAIN_EXTENSION_NAME};

@@ -2,10 +2,10 @@
 #include <poike/core/Semaphore.hpp>
 #include <stdexcept>               // for runtime_error
 #include <poike/core/Device.hpp>       // for Device
-#include <poike/core/QueueFamily.hpp>  // for vkl
+#include <poike/core/QueueFamily.hpp>  // for poike
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 Semaphore::Semaphore(const Device& device) : m_device(device) {
   VkSemaphoreCreateInfo semaphoreCreateInfo = {

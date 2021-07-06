@@ -12,7 +12,7 @@
 #include <cstring>
 #include <iostream>
 
-namespace vkl {
+namespace poike {
 
   class StorageBuffer : public IBuffer {
   public:
@@ -96,6 +96,6 @@ namespace vkl {
     const Device& m_device;
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // STORAGEBUFFER_HPP

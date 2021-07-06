@@ -6,7 +6,7 @@
 #include <poike/misc/Device.hpp>
 #include <poike/meta/NoCopy.hpp>
 
-namespace vkl {
+namespace poike {
 
   class Image : public NoCopy {
   public:
@@ -60,6 +60,6 @@ namespace vkl {
     virtual void createSampler() = 0;
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // IMAGE_HPP

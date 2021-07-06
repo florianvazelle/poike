@@ -17,7 +17,7 @@
 #include <functional>
 #include <vector>
 
-namespace vkl {
+namespace poike {
 
   class CommandBuffersBase : public NoCopy {
   public:
@@ -65,6 +65,6 @@ namespace vkl {
 
     virtual void createCommandBuffers() = 0;
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // COMMANDBUFFERS_HPP

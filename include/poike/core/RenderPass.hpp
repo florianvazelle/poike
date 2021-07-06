@@ -15,11 +15,11 @@
 #include <memory>                // for unique_ptr
 #include <vector>                // for vector
 #include <poike/core/image/Attachment.hpp>
-namespace vkl { class Device; }
-namespace vkl { class SwapChain; }
+namespace poike { class Device; }
+namespace poike { class SwapChain; }
 // clang-format on
 
-namespace vkl {
+namespace poike {
   /**
    * Note Exposé : Le render pass permet d'indiquer combien chaque framebuffer
    * aura de buffers de couleur et de profondeur, combien de samples il faudra utiliser avec chaque
@@ -53,6 +53,6 @@ namespace vkl {
     void destroyRenderPass();
     void destroyFrameBuffers();
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // RENDERPASS_HPP

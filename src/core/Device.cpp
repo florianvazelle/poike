@@ -1,7 +1,7 @@
 // clang-format off
 #include <poike/core/Device.hpp>
 #include <poike/core/Instance.hpp>     // for Instance, Instance::ValidationLayers
-#include <poike/core/QueueFamily.hpp>  // for QueueFamilyIndices, QueueFamily, vkl
+#include <poike/core/QueueFamily.hpp>  // for QueueFamilyIndices, QueueFamily, poike
 #include <poike/core/SwapChain.hpp>    // for SwapChainSupportDetails, SwapChain
 #include <poike/core/Window.hpp>       // for Window
 #include <cstdint>                 // for uint32_t
@@ -13,7 +13,7 @@
 #include <vector>                  // for vector, allocator
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 Device::Device(const Instance& instance, const Window& window, const std::vector<const char*>& extensions)
     : m_physical(VK_NULL_HANDLE),

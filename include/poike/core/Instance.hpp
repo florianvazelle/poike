@@ -13,7 +13,7 @@
 #include <vector>                // for vector
 // clang-format on
 
-namespace vkl {
+namespace poike {
 
   /**
    * @brief A class that allows you to manage the instance.
@@ -43,6 +43,6 @@ namespace vkl {
     static void GetRequiredExtensions(std::vector<const char*>& extensions, bool validationLayers);
   };
 
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // INSTANCE_HPP

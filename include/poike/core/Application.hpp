@@ -31,7 +31,7 @@
  *
  * Encapsulates the entire vk3DLoader library.
  */
-namespace vkl {
+namespace poike {
 
   struct DebugOption {
     int debugLevel;
@@ -75,6 +75,6 @@ namespace vkl {
 
     virtual void recreateSwapChain(bool& framebufferResized) = 0;
   };
-}  // namespace vkl
+}  // namespace poike
 
 #endif  // APPLICATION_HPP

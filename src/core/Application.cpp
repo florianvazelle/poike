@@ -1,12 +1,12 @@
 // clang-format off
 #include <poike/core/Application.hpp>
-#include <poike/core/DebugUtilsMessenger.hpp>  // for vkl
+#include <poike/core/DebugUtilsMessenger.hpp>  // for poike
 #include <poike/core/Instance.hpp>             // for Instance, Instance::Device...
 #include <poike/core/SwapChain.hpp>            // for SwapChain
 #include <glm/glm.hpp>
 // clang-format on
 
-using namespace vkl;
+using namespace poike;
 
 Application::Application(
 #ifdef __ANDROID__
