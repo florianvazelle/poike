@@ -10,8 +10,6 @@
 #include <poike/core/SwapChain.hpp>
 #include <poike/core/buffer/Buffer.hpp>
 #include <poike/core/buffer/IBuffer.hpp>
-#include <poike/core/struct/Depth.hpp>
-#include <poike/core/struct/MVP.hpp>
 
 #define GLM_FORCE_RADIANS
 #include <glm/glm.hpp>
