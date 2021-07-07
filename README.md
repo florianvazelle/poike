@@ -3,7 +3,6 @@
   <h1>Poike</h1>
   <img src="./poike.svg"/>
   <h2>A work in progress comprehensible Vulkan framework</h2>
-  <h1></h1>
   <div>
     <a href="https://github.com/florianvazelle/poike/actions"><img src="https://github.com/florianvazelle/poike/workflows/build/badge.svg"/></a>
     <img src="https://app.codacy.com/project/badge/Grade/289ed3c67b1d42f5a10a17a25de1c969"/>
