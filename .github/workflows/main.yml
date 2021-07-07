@@ -101,7 +101,7 @@ jobs:
           cmake \
             $GITHUB_WORKSPACE \
             -G Ninja \
-            -DBUILD_TESTING=ON -DBUILD_DOCS=ON -DINSTALL_APPS=ON \
+            -DBUILD_TESTING=ON -DBUILD_DOCS=ON \
             -DCMAKE_INSTALL_PREFIX="${{ runner.workspace }}/instdir"
 
       - name: Build
@@ -188,7 +188,7 @@ jobs:
         run: |
           cmake \
             $GITHUB_WORKSPACE \
-            -DBUILD_TESTING=ON -DBUILD_DOCS=ON -DINSTALL_APPS=ON \
+            -DBUILD_TESTING=ON -DBUILD_DOCS=ON \
             -DCMAKE_INSTALL_PREFIX="${{ runner.workspace }}/instdir"
 
       - name: Build
